@@ -14,6 +14,9 @@ configuration:
     - .obsidian
     - .llm-wiki
     - SCHEMA.md
+    - raw
+    - markitdown-output
+    - outputs
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
