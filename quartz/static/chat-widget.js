@@ -1,8 +1,6 @@
 // AI Chat Widget for EL-Notepad Wiki
 (function() {
   if (document.getElementById("el-notepad-chat-widget")) return;
-
-  // Styles
   var s = document.createElement("style");
   s.textContent = 
     "#el-notepad-chat-widget{position:fixed;bottom:20px;right:20px;z-index:9999;font-family:system-ui,-apple-system,sans-serif}" +
@@ -17,9 +15,8 @@
     ".chat-user{background:#284b63;color:#fff;margin-left:auto;border-radius:8px 8px 2px 8px}" +
     ".chat-bot{background:#f0f0f0;color:#222;margin-right:auto;border-radius:8px 8px 8px 2px}" +
     "body.dark .chat-bot{background:#2a2a3e;color:#e0e0e0}" +
-    ".chat-typing{background:#f0f0f0;color:#888;margin-right:auto;border-radius:8px;padding:8px 12px;animation:pulse 1.5s infinite}" +
+    ".chat-typing{background:#f0f0f0;color:#888;margin-right:auto;border-radius:8px;padding:8px 12px}" +
     "body.dark .chat-typing{background:#2a2a3e;color:#888}" +
-    "@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}" +
     "#el-notepad-chat-input-bar{display:flex;padding:8px;border-top:1px solid #e0e0e0;gap:8px;flex-shrink:0}" +
     "body.dark #el-notepad-chat-input-bar{border-color:#333}" +
     "#el-notepad-chat-input{flex:1;padding:8px 12px;border:1px solid #ddd;border-radius:8px;font-size:14px;outline:none}" +
@@ -27,19 +24,13 @@
     "#el-notepad-chat-send{padding:8px 16px;background:#284b63;color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:14px;font-weight:600}" +
     "#el-notepad-chat-send:disabled{opacity:.5;cursor:default}";
   document.head.appendChild(s);
-
-  // Container
   var c = document.createElement("div");
   c.id = "el-notepad-chat-widget";
-
-  // Button
   var btn = document.createElement("button");
   btn.id = "el-notepad-chat-btn";
   btn.textContent = "\uD83D\uDCAC";
   btn.title = "Ask AI";
   c.appendChild(btn);
-
-  // Panel
   var p = document.createElement("div");
   p.id = "el-notepad-chat-panel";
   p.innerHTML =
@@ -49,16 +40,13 @@
     '<button id="el-notepad-chat-send">Send</button></div>';
   c.appendChild(p);
   document.body.appendChild(c);
-
   var open = false;
   var msgs = document.getElementById("el-notepad-chat-msgs");
   var input = document.getElementById("el-notepad-chat-input");
   var sendBtn = document.getElementById("el-notepad-chat-send");
   var closeBtn = document.getElementById("el-notepad-chat-close");
-
   btn.onclick = function() { open = !open; p.style.display = open ? "flex" : "none"; if (open) input.focus(); };
   closeBtn.onclick = function() { open = false; p.style.display = "none"; };
-
   function addMsg(text, role) {
     var d = document.createElement("div");
     d.className = "chat-msg chat-" + role;
@@ -66,20 +54,17 @@
     msgs.appendChild(d);
     msgs.scrollTop = msgs.scrollHeight;
   }
-
   async function ask() {
     var q = input.value.trim();
     if (!q) return;
     addMsg(q, "user");
     input.value = "";
     sendBtn.disabled = true;
-
     var typing = document.createElement("div");
     typing.className = "chat-msg chat-typing";
     typing.textContent = "Thinking...";
     msgs.appendChild(typing);
     msgs.scrollTop = msgs.scrollHeight;
-
     try {
       var resp = await fetch("/api/chat", {
         method: "POST",
@@ -87,36 +72,11 @@
         body: JSON.stringify({ question: q })
       });
       msgs.removeChild(typing);
-
       if (resp.ok) {
-        var ct = resp.headers.get("Content-Type") || "";
-        if (ct.includes("event-stream")) {
-          var answerDiv = document.createElement("div");
-          answerDiv.className = "chat-msg chat-bot";
-          msgs.appendChild(answerDiv);
-          var reader = resp.body.getReader();
-          var decoder = new TextDecoder();
-          var answer = "";
-          while (true) {
-            var r = await reader.read();
-            if (r.done) break;
-            var lines = decoder.decode(r.value).split("\n").filter(function(l) { return l.trim(); });
-            for (var j = 0; j < lines.length; j++) {
-              try {
-                var data = JSON.parse(lines[j]);
-                if (data.text) { answer += data.text; answerDiv.textContent = answer; }
-                if (data.error) { answerDiv.textContent = "Error: " + data.error; }
-              } catch(e) {}
-            }
-            msgs.scrollTop = msgs.scrollHeight;
-          }
-        } else {
-          var data = await resp.json();
-          addMsg(data.answer || "No response", "bot");
-        }
+        var data = await resp.json();
+        addMsg(data.answer || "No response", "bot");
       } else {
-        var err = await resp.json();
-        addMsg("Error: " + (err.error || resp.statusText), "bot");
+        addMsg("Error: " + resp.statusText, "bot");
       }
     } catch(e) {
       if (typing.parentNode) msgs.removeChild(typing);
@@ -124,7 +84,6 @@
     }
     sendBtn.disabled = false;
   }
-
   sendBtn.onclick = ask;
   input.addEventListener("keydown", function(e) {
     if (e.key === "Enter") { e.preventDefault(); ask(); }
