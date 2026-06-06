@@ -53,7 +53,7 @@ export async function onRequest(context) {
 
     const systemPrompt = "You are a helpful wiki assistant. Answer based on the context below.\n\nRelevant wiki content:\n" + (contextText || "(No directly relevant content found)");
 
-    const stream = await env.AI.run("@cf/gemma-4-26b-a4b-it", {
+    const stream = await env.AI.run("@cf/google/gemma-4-26b-a4b-it", {
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: question }
