@@ -3,12 +3,6 @@ title: "EL-Notepad"
 description: "多领域个人知识维基"
 ---
 
-<div style="text-align:center;padding:12px 0;margin-bottom:16px;border-bottom:1px solid #e0e0e0">
-  <a href="/" style="display:inline-block;padding:8px 20px;margin:0 6px;background:#284b63;color:#fff;border-radius:6px;text-decoration:none;font-size:14px">🏠 首页</a>
-  <a href="/landing/" style="display:inline-block;padding:8px 20px;margin:0 6px;background:#f0f0f0;color:#333;border-radius:6px;text-decoration:none;font-size:14px">🧭 知识导航</a>
-  <a href="/wiki/" style="display:inline-block;padding:8px 20px;margin:0 6px;background:#f0f0f0;color:#333;border-radius:6px;text-decoration:none;font-size:14px">📂 浏览维基</a>
-</div>
-
 # EL-Notepad
 
 Karpathy LLM Wiki 模式的多领域个人知识库。
