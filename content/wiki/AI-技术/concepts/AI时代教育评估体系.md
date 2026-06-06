@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "AI时代教育评估体系"
+category: "AI应用"
 date: 2026-04-24
+summary: "本书探讨的人工智能时代教育评价与录取机制，涵盖K-12阶段标准化测试改进、大学招生公平性与效率提升两大核心方向。"
 tags: [wiki, wiki/concept]
 ---
 

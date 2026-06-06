@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Coding Agents（编程智能体）"
+category: "Agent模式"
 date: 2026-04-24
+summary: "The subject covered in Appendix G of the related documentation, which is the immediately preceding chapter of the Conclusion chapter. 对应文档附录G的主题，是结论章节的上一章内容。"
 tags: [wiki, wiki/concept]
 ---
 

@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Google Cloud Skills Boost"
+category: "技能体系"
 date: 2026-04-24
+summary: "A Google Cloud training platform that provides structured, hands-on learning modules, including the \"Build a Gen AI Agent with Agentspace\" lab for practical AI agent development skill acquisition."
 tags: [wiki, wiki/concept]
 ---
 

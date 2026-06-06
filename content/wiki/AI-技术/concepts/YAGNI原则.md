@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "YAGNI原则"
+category: "提示工程"
 date: 2026-04-14
+summary: "即You Ain't Gonna Need It，是开发规范原则，要求开发者避免实现当前需求未要求的额外功能，避免过度构建。"
 tags: [wiki, wiki/concept]
 ---
 

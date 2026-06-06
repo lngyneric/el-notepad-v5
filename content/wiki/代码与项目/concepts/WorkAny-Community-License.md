@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "WorkAny Community License"
+category: "其他"
 date: 2026-04-24
+summary: "The custom license for the WorkAny project, based on Apache License 2.0 with additional conditions."
 tags: [wiki, wiki/concept]
 ---
 

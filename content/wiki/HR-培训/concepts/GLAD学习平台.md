@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "GLAD学习平台"
+category: "培训体系"
 date: 2026-04-14
+summary: "SCH企业2025年引入的全球外部学习平台，为内部培训提供课程与资源支持。"
 tags: [wiki, wiki/concept]
 ---
 

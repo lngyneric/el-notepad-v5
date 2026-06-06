@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "OpenMAIC"
+category: "Agent模式"
 date: 2026-04-24
+summary: "清华大学开源的AI教学引擎，是OpenMAIC-Feishu-Lab项目的核心教学能力底座。"
 tags: [wiki, wiki/concept]
 ---
 

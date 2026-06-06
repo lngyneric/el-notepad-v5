@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Evolutionary Stress Mismatch"
+category: "健康与正念"
 date: 2026-04-24
+summary: "The disconnect between the human brain's amygdala-driven stress response, optimized for prehistoric survival threats, and modern contexts where most stress triggers are non-lethal personal or work-related events, while large-scale abstract threats..."
 tags: [wiki, wiki/concept]
 ---
 

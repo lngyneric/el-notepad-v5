@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "RAG（检索增强生成）"
+category: "RAG知识检索"
 date: 2026-04-24
+summary: "RA部门AI智能问答平台演进路线中计划引入的技术，用于挂载外部知识库，突破现有上下文窗口的容量限制。"
 tags: [wiki, wiki/concept]
 ---
 

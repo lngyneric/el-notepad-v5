@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "IVD-AI资本"
+category: "AI+行业"
 date: 2026-04-24
+summary: "IVD与AI融合赛道的资本市场表现，本素材中兰卫医学病理AI+IVD创新产品逻辑获12亿封单涨停属于该类动态。"
 tags: [wiki, wiki/concept]
 ---
 

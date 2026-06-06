@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Claude Agent SDK"
+category: "Agent模式"
 date: 2026-04-24
+summary: "The official software development kit from Anthropic used to build WorkAny's core agent functionalities."
 tags: [wiki, wiki/concept]
 ---
 

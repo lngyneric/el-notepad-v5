@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Action Items（行动项）"
+category: "项目管理"
 date: 2026-04-24
+summary: "本清单中指从会议记录中提炼的、需具体落地执行的工作条目，是会议记录归档环节的核心产出内容之一。"
 tags: [wiki, wiki/concept]
 ---
 

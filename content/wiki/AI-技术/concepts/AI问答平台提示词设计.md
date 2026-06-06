@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "AI问答平台提示词设计"
+category: "提示工程"
 date: 2026-04-24
+summary: "AI问答平台高效运转的核心基石，其与业务场景的贴合深度、细节颗粒度直接决定输出结果的精准度，需采用「边用边调」的迭代模式持续优化。"
 tags: [wiki, wiki/concept]
 ---
 

@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "玻璃瓶微缩主题适配AI模型"
+category: "3D设计"
 date: 2026-04-24
+summary: "可稳定生成玻璃瓶微缩地点模型作品的AI绘画模型，具体包括Nano Banana Pro与Seedream两款。"
 tags: [wiki, wiki/concept]
 ---
 

@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Model Context Protocol (MCP)"
+category: "Agent模式"
 date: 2026-04-14
+summary: "A protocol supported by WorkAny for server integration to enhance the AI agent's context capabilities."
 tags: [wiki, wiki/concept]
 ---
 

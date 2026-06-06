@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Svelte Store"
+category: "项目管理"
 date: 2026-04-15
+summary: "Svelte的状态管理方案，本计划中用于维护待办列表的全局状态，提供增删改切换状态等操作方法。"
 tags: [wiki, wiki/concept]
 ---
 

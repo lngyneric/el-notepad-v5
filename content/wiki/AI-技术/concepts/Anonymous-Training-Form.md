@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Anonymous Training Form"
+category: "其他"
 date: 2026-04-24
+summary: "A data collection tool for team awareness training where participant identities are not recorded or disclosed, a requirement that must be explicitly communicated to all participants prior to form completion."
 tags: [wiki, wiki/concept]
 ---
 

@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Enterprise Knowledge Graph"
+category: "Agent模式"
 date: 2026-04-24
+summary: "A structured data layer constructed by AgentSpace that maps relationships between an organization's people, documents, and data to enable context-aware, personalized AI outputs."
 tags: [wiki, wiki/concept]
 ---
 

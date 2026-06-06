@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "PWA (Progressive Web App)"
+category: "其他"
 date: 2026-04-24
+summary: "渐进式网页应用，是轻量级的网页转应用方案，支持安装到设备桌面、全屏显示、离线运行，用户体验接近原生应用。"
 tags: [wiki, wiki/concept]
 ---
 

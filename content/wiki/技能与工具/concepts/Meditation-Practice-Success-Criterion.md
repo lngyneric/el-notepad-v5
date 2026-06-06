@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Meditation Practice Success Criterion"
+category: "其他"
 date: 2026-04-24
+summary: "For the Team Awareness Training program, a successful meditation session is defined as completing the full 10-minute practice duration and returning attention to the practice anchor at least once, with distraction and restlessness deemed normal an..."
 tags: [wiki, wiki/concept]
 ---
 

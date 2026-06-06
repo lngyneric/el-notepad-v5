@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "use_skill工具"
+category: "AI工具"
 date: 2026-04-14
+summary: "OpenCode插件提供的自定义工具，作用是加载指定名称技能的完整内容到当前会话，等价于Claude Code的Skill工具。"
 tags: [wiki, wiki/concept]
 ---
 

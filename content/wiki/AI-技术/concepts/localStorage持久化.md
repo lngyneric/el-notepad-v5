@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "localStorage持久化"
+category: "RAG知识检索"
 date: 2026-04-15
+summary: "本项目中用于存储待办数据的持久化方案，实现页面刷新后待办数据不丢失，会优雅处理JSON解析错误。"
 tags: [wiki, wiki/concept]
 ---
 

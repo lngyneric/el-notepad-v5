@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "finishing-a-development-branch"
+category: "项目管理"
 date: 2026-04-14
+summary: "一套标准化的Git开发分支收尾工作流程，用于开发实现完成后，规范测试验证、分支整合决策与清理操作，核心流程为验证测试→呈现选项→执行选择→清理。"
 tags: [wiki, wiki/concept]
 ---
 

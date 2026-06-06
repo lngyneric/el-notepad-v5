@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "find_skills工具"
+category: "效率工具"
 date: 2026-04-14
+summary: "OpenCode插件提供的自定义工具，作用是列出所有可用技能的元数据（名称、描述、存储目录）供用户查看。"
 tags: [wiki, wiki/concept]
 ---
 

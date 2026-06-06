@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "夯（Hāng）级评价标准"
+category: "3D设计"
 date: 2026-04-24
+summary: "五级评价分层的最高等级，筛选标准为领域内具备统治级热度的公认顶流产品/作品，视觉上采用高饱和度红金配色与能量外溢特效。"
 tags: [wiki, wiki/concept]
 ---
 

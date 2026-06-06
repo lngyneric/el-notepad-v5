@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "superpowers:writing-plans skill"
+category: "效率工具"
 date: 2026-04-24
+summary: "A core Superpowers skill that the write-plan command invokes and must follow exactly when generating implementation plan outputs."
 tags: [wiki, wiki/concept]
 ---
 

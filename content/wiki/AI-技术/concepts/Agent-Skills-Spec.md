@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Agent Skills Spec"
+category: "Agent模式"
 date: 2026-04-24
+summary: "A specification for agent skills, whose official document is currently hosted at <https://agentskills.io/specification>."
 tags: [wiki, wiki/concept]
 ---
 

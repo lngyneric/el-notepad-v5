@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Agentic Design Patterns"
+category: "Agent模式"
 date: 2026-04-24
+summary: "A collection of 21 core technical patterns for building intelligent AI systems, covered in Antonio Gulli's book *Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems*, grouped into four categories: Core Patterns, Advanced Patt..."
 tags: [wiki, wiki/concept]
 ---
 

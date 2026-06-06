@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Personal Skills"
+category: "AI工具"
 date: 2026-04-24
+summary: "User-created custom skills stored in the ~/.codex/skills/ directory that follow the SKILL.md format, and override built-in Superpowers skills with the same name."
 tags: [wiki, wiki/concept]
 ---
 

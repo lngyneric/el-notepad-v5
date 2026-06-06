@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Vibe Coding"
+category: "开发框架"
 date: 2026-04-24
+summary: "一种人与AI协作进行代码产出的编程方式。"
 tags: [wiki, wiki/concept]
 ---
 

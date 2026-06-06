@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "AI幻觉"
+category: "LLM基础"
 date: 2026-04-24
+summary: "RA部门AI智能问答平台当前存在的局限性之一，指平台在数据边界模糊的场景下可能输出不实内容的现象。"
 tags: [wiki, wiki/concept]
 ---
 

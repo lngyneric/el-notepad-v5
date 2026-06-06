@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "可靠AI系统设计原则"
+category: "RAG知识检索"
 date: 2026-04-24
+summary: "本手册提出的AI系统构建核心原则，强调流程设计优先于模型依赖，可靠的AI系统等于流程约束加模型能力。"
 tags: [wiki, wiki/concept]
 ---
 

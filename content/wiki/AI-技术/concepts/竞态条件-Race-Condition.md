@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "竞态条件（Race Condition）"
+category: "其他"
 date: 2026-04-14
+summary: "指测试中因时序不确定导致的结果不一致问题，是不稳定测试的核心诱因，通常由任意固定延迟等待引发。"
 tags: [wiki, wiki/concept]
 ---
 

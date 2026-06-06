@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "PDU（专业发展单元）"
+category: "系统设计"
 date: 2026-04-24
+summary: "PMP认证体系下用于维持认证有效性的专业发展学分，本教材包含其常见疑问的释疑内容。"
 tags: [wiki, wiki/concept]
 ---
 

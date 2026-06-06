@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "矢量插画风格PPT"
+category: "3D设计"
 date: 2026-04-24
+summary: "本素材特指以统一扁平矢量插画为核心视觉元素的演示文稿，具备明确的构图、线条、配色、排版等标准化美术规范，可通过指定AI工具生成。"
 tags: [wiki, wiki/concept]
 ---
 

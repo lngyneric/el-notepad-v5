@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "superpowers:executing-plans Skill"
+category: "其他"
 date: 2026-04-24
+summary: "The specific skill that the execute-plan command must invoke and follow exactly throughout its execution process."
 tags: [wiki, wiki/concept]
 ---
 

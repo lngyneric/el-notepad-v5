@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "智能归类 (Smart Categorization)"
+category: "培训体系"
 date: 2026-06-06
+summary: "用户只需输入一句话，Skill 自动识别内容并分配到对应的 Project，如“下周五有面试”自动归类为重要活动，“每周同步一下进度”归类为自动化。"
 tags: [wiki, wiki/concept]
 ---
 

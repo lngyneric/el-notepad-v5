@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "vite-plugin-pwa"
+category: "前端开发"
 date: 2026-04-24
+summary: "适用于Vite构建的前端项目的PWA改造插件，本教程中用于完成PWA应用的配置与功能实现。"
 tags: [wiki, wiki/concept]
 ---
 

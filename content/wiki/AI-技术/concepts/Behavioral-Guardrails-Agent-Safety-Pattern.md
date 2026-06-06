@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Behavioral Guardrails (Agent Safety Pattern)"
+category: "Agent模式"
 date: 2026-04-24
+summary: "A core agent safety pattern focused on constraining and governing the runtime decision-making and actions of intelligent agents to ensure compliance with safety rules."
 tags: [wiki, wiki/concept]
 ---
 

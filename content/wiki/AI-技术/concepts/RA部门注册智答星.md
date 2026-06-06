@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "RA部门注册智答星"
+category: "AI+行业"
 date: 2026-04-24
+summary: "RA（注册法规）部门依托企业微信AI问答机器人能力搭建的专属智能问答平台，以历年沉淀的注册法规资料为核心数据库，用于提升注册业务日常办公效率。"
 tags: [wiki, wiki/concept]
 ---
 

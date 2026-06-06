@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Capacitor"
+category: "其他"
 date: 2026-04-24
+summary: "用于将网页应用封装为原生Android、iOS应用的开发框架，本教程中用于打包生成APK、IPA格式的原生应用安装包。"
 tags: [wiki, wiki/concept]
 ---
 

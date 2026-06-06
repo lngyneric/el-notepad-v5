@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "disable-model-invocation flag"
+category: "项目管理"
 date: 2026-04-24
+summary: "A configuration setting for Superpowers commands that disables additional model invocation during command execution when set to true."
 tags: [wiki, wiki/concept]
 ---
 

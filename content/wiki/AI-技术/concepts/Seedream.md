@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Seedream"
+category: "3D设计"
 date: 2026-04-24
+summary: "支持生成屏幕使用时长可视化海报的AI绘画模型之一。"
 tags: [wiki, wiki/concept]
 ---
 

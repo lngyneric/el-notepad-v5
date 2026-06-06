@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "PMP®考试"
+category: "系统设计"
 date: 2026-04-24
+summary: "项目管理专业人士资格认证考试，《汪博士解读PMP®考试（第6版）》为其辅导教材，第16章专门分析其难点、易点与应试技巧。"
 tags: [wiki, wiki/concept]
 ---
 

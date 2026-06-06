@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "write-plan Command"
+category: "项目管理"
 date: 2026-04-24
+summary: "A Superpowers command whose core function is to create detailed implementation plans made up of small, bite-sized tasks, with model invocation disabled during its execution."
 tags: [wiki, wiki/concept]
 ---
 

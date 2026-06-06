@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Copy as cURL"
+category: "模型产品"
 date: 2026-04-14
+summary: "浏览器开发者工具提供的功能，可将捕获到的网络请求复制为bash格式的cURL命令，是本方法中获取请求信息的核心步骤。"
 tags: [wiki, wiki/concept]
 ---
 

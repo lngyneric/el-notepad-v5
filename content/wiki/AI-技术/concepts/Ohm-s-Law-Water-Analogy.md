@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Ohm's Law Water Analogy"
+category: "健康与正念"
 date: 2026-04-24
+summary: "A visual educational framework that uses a water flow system as an analog for electrical circuits to explain the core relationships of Ohm's Law ($I = V/R$)."
 tags: [wiki, wiki/concept]
 ---
 

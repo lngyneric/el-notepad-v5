@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "A类首尾帧差异"
+category: "提示工程"
 date: 2026-04-24
+summary: "首尾帧关联性强的差异类型，特征为主体或场景基本一致，仅状态、风格或环境发生改变"
 tags: [wiki, wiki/concept]
 ---
 

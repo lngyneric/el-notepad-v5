@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "github.com/spf13/cobra"
+category: "开发工具"
 date: 2026-04-15
+summary: "Go Fractals CLI使用的Go语言CLI开发框架，用于构建命令行结构和帮助信息。"
 tags: [wiki, wiki/concept]
 ---
 

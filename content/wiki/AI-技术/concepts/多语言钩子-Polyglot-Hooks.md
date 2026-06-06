@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "多语言钩子（Polyglot Hooks）"
+category: "模型产品"
 date: 2026-04-14
+summary: "Claude Code插件的跨平台钩子方案，通过创建同时兼容CMD和bash语法的多语言.cmd包装器，解决了Claude Code钩子在Windows、macOS、Linux多系统的兼容性问题。"
 tags: [wiki, wiki/concept]
 ---
 

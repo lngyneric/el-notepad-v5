@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Input Validation (Agent Safety Pattern)"
+category: "Agent模式"
 date: 2026-04-24
+summary: "A core agent safety pattern focused on verifying and restricting inputs provided to intelligent agents to prevent triggering unsafe operations."
 tags: [wiki, wiki/concept]
 ---
 

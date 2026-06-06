@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "IVD-AI商业化"
+category: "AI+行业"
 date: 2026-04-14
+summary: "体外诊断（IVD）领域AI辅助诊断产品的合规获批、落地应用等商业化进展，本素材中迪安诊断AI辅助诊断产品获NMPA三类证属于该范畴。"
 tags: [wiki, wiki/concept]
 ---
 

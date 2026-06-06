@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "OpenClaw"
+category: "开发框架"
 date: 2026-04-24
+summary: "本方案的中间连接器（Gateway），负责监听飞书消息、调用OpenMAIC接口，并实现OpenMAIC与飞书多维表格之间的消息分发与数据流转。"
 tags: [wiki, wiki/concept]
 ---
 

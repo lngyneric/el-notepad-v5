@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Claude辅助Skill迭代"
+category: "模型产品"
 date: 2026-04-15
+summary: "使用一个Claude实例辅助开发整理Skill，另一个全新Claude实例加载Skill做实际测试，基于真实使用观察迭代优化的开发流程"
 tags: [wiki, wiki/concept]
 ---
 

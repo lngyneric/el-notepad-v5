@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "B类首尾帧差异"
+category: "提示工程"
 date: 2026-04-24
+summary: "首尾帧差异巨大的类型，特征为主体和场景完全不相关"
 tags: [wiki, wiki/concept]
 ---
 

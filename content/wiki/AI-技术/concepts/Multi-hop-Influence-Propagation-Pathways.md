@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Multi-hop Influence Propagation Pathways"
+category: "其他"
 date: 2026-04-24
+summary: "Sequential multi-step connection paths through which influence spreads across a social network, not identifiable via isolated document retrieval."
 tags: [wiki, wiki/concept]
 ---
 

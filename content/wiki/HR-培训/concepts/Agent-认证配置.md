@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "Agent 认证配置"
+category: "培训体系"
 date: 2026-06-06
+summary: "为 main agent 建立独立的 auth store，用于解决“No API key found”类错误，属于本阶段关键的认证修复项。"
 tags: [wiki, wiki/concept]
 ---
 

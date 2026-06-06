@@ -1,7 +1,9 @@
 ---
 type: concept
 title: "TDD（测试驱动开发）"
+category: "项目管理"
 date: 2026-04-15
+summary: "Writing Plans遵循的核心开发原则之一，要求每个功能先编写失败的测试，再编写实现代码让测试通过。"
 tags: [wiki, wiki/concept]
 ---
 
