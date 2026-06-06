@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Safe Training Sharing Space
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-05-flow]] 的认知：A foundational principle for Team Awareness Training facilitation, requiring facilitators to allow unrushed, voluntary personal reflection sharing, avoid forcing participants to disclose inner states, and exclude devices from sessions to build trust and enable meaningful training breakthroughs.
+- 2026-04-24: 来自 [[session-05-flow]] 的认知：A foundational principle for Team Awareness Training facilitation, requiring facilitators to allow unrushed, voluntary personal reflection sharing, avoid forcing participants to disclose inner states, and exclude devices from sessions to build trust and enable meaningful training breakthroughs.

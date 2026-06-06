@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Agentic Design Patterns Documentation Repository Structure
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/AGENTS]] 的认知：A content organization standard where all documentation is stored as sequentially numbered Markdown files at the repository root, with prohibited unapproved new folders and mandatory adherence to chapter numbering and bilingual layout rules.
+- 2026-04-24: 来自 [[AGENTS]] 的认知：A content organization standard where all documentation is stored as sequentially numbered Markdown files at the repository root, with prohibited unapproved new folders and mandatory adherence to chapter numbering and bilingual layout rules.

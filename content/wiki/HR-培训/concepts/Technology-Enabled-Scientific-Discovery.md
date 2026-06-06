@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Technology-Enabled Scientific Discovery
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/07_文档与参考/Markdown文档/未命名]] 的认知：The process by which technological advancements and tools assist scientists in generating novel, previously unobserved scientific findings or breakthroughs, which is a core research topic in the source material.
+- 2026-04-24: 来自 [[未命名]] 的认知：The process by which technological advancements and tools assist scientists in generating novel, previously unobserved scientific findings or breakthroughs, which is a core research topic in the source material.

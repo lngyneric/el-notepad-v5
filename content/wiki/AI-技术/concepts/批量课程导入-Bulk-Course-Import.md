@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # 批量课程导入（Bulk Course Import）
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/01_项目文档/产品需求与功能设计/bulk-course-import]] 的认知：指一次性导入多门结构化课程数据的功能，本素材为该功能对应的待导入源课程数据。
+- 2026-04-14: 来自 [[Bulk-Course-Import]] 的认知：指一次性导入多门结构化课程数据的功能，本素材为该功能对应的待导入源课程数据。

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Flow (Psychological State)
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-05-flow]] 的认知：A high-performance psychological state defined by three core characteristics: forgetting about time, enjoying the activity being performed, and pushing one's own ability, which delivers both improved well-being and higher productivity for individuals and teams when maximized.
+- 2026-04-24: 来自 [[session-05-flow]] 的认知：A high-performance psychological state defined by three core characteristics: forgetting about time, enjoying the activity being performed, and pushing one's own ability, which delivers both improved well-being and higher productivity for individuals and teams when maximized.

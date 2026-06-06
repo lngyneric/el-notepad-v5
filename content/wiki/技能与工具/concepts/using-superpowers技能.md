@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # using-superpowers技能
 
 ## Evolution Log
-- 2026-04-15: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/using-superpowers/SKILL]] 的认知：Superpowers体系下的基础规则技能，用于规范所有技能调用行为，要求任何对话开始时，只要存在1%概率有技能适应当前任务，就必须在任何响应前调用对应技能。
+- 2026-04-15: 来自 [[SKILL]] 的认知：Superpowers体系下的基础规则技能，用于规范所有技能调用行为，要求任何对话开始时，只要存在1%概率有技能适应当前任务，就必须在任何响应前调用对应技能。

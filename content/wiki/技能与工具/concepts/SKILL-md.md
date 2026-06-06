@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # SKILL.md
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/skills/skills/README]] 的认知：The mandatory core file for any Claude skill, containing YAML frontmatter with unique name and description metadata, plus markdown instructions, usage examples, and guidelines for Claude to follow.
+- 2026-04-24: 来自 [[README]] 的认知：The mandatory core file for any Claude skill, containing YAML frontmatter with unique name and description metadata, plus markdown instructions, usage examples, and guidelines for Claude to follow.

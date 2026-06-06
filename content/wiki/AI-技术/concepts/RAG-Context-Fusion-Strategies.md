@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # RAG Context Fusion Strategies
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/03_技能与工具/多模态RAG/Multimodal_RAG_KG_Diagrams]] 的认知：Post-retrieval fusion approaches for multimodal RAG context, including encoder fusion (FiE) and decoder fusion (FiD), applied after reranking and compression of retrieved results.
+- 2026-04-24: 来自 [[Multimodal_RAG_KG_Diagrams]] 的认知：Post-retrieval fusion approaches for multimodal RAG context, including encoder fusion (FiE) and decoder fusion (FiD), applied after reranking and compression of retrieved results.

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Pre-Submission Testing Guidelines
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/AGENTS]] 的认知：Mandatory pre-submission checks for all contributions including no broken links, consistent terminology, matched bilingual paragraph pairs, valid Markdown rendering, and zero errors from lint and link check tools for modified files.
+- 2026-04-24: 来自 [[AGENTS]] 的认知：Mandatory pre-submission checks for all contributions including no broken links, consistent terminology, matched bilingual paragraph pairs, valid Markdown rendering, and zero errors from lint and link check tools for modified files.

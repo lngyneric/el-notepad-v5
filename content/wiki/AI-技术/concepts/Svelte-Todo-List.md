@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Svelte Todo List
 
 ## Evolution Log
-- 2026-04-15: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/tests/subagent-driven-dev/svelte-todo/design]] 的认知：基于Svelte框架开发的简易待办事项清单应用，支持待办的增删改、筛选、统计与本地存储持久化。
+- 2026-04-15: 来自 [[design]] 的认知：基于Svelte框架开发的简易待办事项清单应用，支持待办的增删改、筛选、统计与本地存储持久化。

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Repository Markdown Development Workflow
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/AGENTS]] 的认知：A set of standardized commands for Markdown content validation and testing, including optional link checking, linting, native editor preview, and local server setup for image embedding.
+- 2026-04-24: 来自 [[AGENTS]] 的认知：A set of standardized commands for Markdown content validation and testing, including optional link checking, linting, native editor preview, and local server setup for image embedding.

@@ -8,5 +8,5 @@ tags: [wiki, wiki/concept]
 # find_skills工具
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/docs/plans/2025-11-22-opencode-support-design]] 的认知：OpenCode插件提供的自定义工具，作用是列出所有可用技能的元数据（名称、描述、存储目录）供用户查看。
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/docs/README.opencode]] 的认知：Superpowers提供的自定义工具，用于列出OpenCode中所有可使用的Superpowers技能。
+- 2026-04-14: 来自 [[2025-11-22-opencode-support-design]] 的认知：OpenCode插件提供的自定义工具，作用是列出所有可用技能的元数据（名称、描述、存储目录）供用户查看。
+- 2026-04-14: 来自 [[README.opencode]] 的认知：Superpowers提供的自定义工具，用于列出OpenCode中所有可使用的Superpowers技能。

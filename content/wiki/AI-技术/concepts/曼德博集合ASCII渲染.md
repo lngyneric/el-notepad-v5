@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # 曼德博集合ASCII渲染
 
 ## Evolution Log
-- 2026-04-15: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/tests/subagent-driven-dev/go-fractals/plan]] 的认知：本项目中实现的分形渲染算法，将复平面上的曼德博集合映射为ASCII输出，支持梯度字符或自定义单字符渲染。
+- 2026-04-15: 来自 [[plan]] 的认知：本项目中实现的分形渲染算法，将复平面上的曼德博集合映射为ASCII输出，支持梯度字符或自定义单字符渲染。

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Global Workflow
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/NanoBanana-PPT-Skills-main/NanoBanana-PPT-Skills-main/ANTIGRAVITY_WORKFLOW]] 的认知：Antigravity 等 AI 编程软件中可自定义的全局工作流配置，用户可通过填写 Description 与 Content 字段实现特定自动化功能。
+- 2026-04-24: 来自 [[ANTIGRAVITY_WORKFLOW]] 的认知：Antigravity 等 AI 编程软件中可自定义的全局工作流配置，用户可通过填写 Description 与 Content 字段实现特定自动化功能。

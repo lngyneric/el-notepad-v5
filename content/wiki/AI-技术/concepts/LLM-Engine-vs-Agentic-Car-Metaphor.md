@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # LLM 'Engine' vs Agentic 'Car' Metaphor
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/04-Thought-Leader]] 的认知：A framing of AI development: the past 18 months focused on LLM capability gains (the 'engine'), while the next era will focus on building agentic frameworks (the 'car') to deploy that capability.
+- 2026-04-24: 来自 [[04-Thought-Leader]] 的认知：A framing of AI development: the past 18 months focused on LLM capability gains (the 'engine'), while the next era will focus on building agentic frameworks (the 'car') to deploy that capability.

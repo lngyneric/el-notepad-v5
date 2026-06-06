@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Agent术语翻译规范
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/05_代码与项目/agentic-design-patterns/agentic-design-patterns/rules/rules]] 的认知：本项目强制统一将AI领域的Agent翻译为「智能体」，禁止使用「代理/代理人」等译法，全书必须保持术语一致性。
+- 2026-04-14: 来自 [[rules]] 的认知：本项目强制统一将AI领域的Agent翻译为「智能体」，禁止使用「代理/代理人」等译法，全书必须保持术语一致性。

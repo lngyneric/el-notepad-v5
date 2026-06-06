@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Skill Creator
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Claude_Skill/claude_skill_automation_guide]] 的认知：用于将cURL请求自动转换为标准Claude Skill结构的工具，可自动分析请求信息并生成符合规范的技能文件。
+- 2026-04-14: 来自 [[claude_skill_automation_guide]] 的认知：用于将cURL请求自动转换为标准Claude Skill结构的工具，可自动分析请求信息并生成符合规范的技能文件。

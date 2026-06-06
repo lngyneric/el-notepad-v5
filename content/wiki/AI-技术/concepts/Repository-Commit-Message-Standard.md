@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Repository Commit Message Standard
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/AGENTS]] 的认知：A required English commit message format using `Add:`, `Update:`, or `Fix:` prefixes to clearly communicate the type and scope of changes made to repository content.
+- 2026-04-24: 来自 [[AGENTS]] 的认知：A required English commit message format using `Add:`, `Update:`, or `Fix:` prefixes to clearly communicate the type and scope of changes made to repository content.

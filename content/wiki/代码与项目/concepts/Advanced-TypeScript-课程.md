@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Advanced TypeScript 课程
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/01_项目文档/产品需求与功能设计/bulk-course-import]] 的认知：面向有基础开发者的TypeScript进阶课程，内容覆盖泛型、条件类型等TypeScript高级类型相关知识点。
+- 2026-04-14: 来自 [[Bulk-Course-Import]] 的认知：面向有基础开发者的TypeScript进阶课程，内容覆盖泛型、条件类型等TypeScript高级类型相关知识点。

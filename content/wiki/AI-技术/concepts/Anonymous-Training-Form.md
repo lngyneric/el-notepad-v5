@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Anonymous Training Form
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/forms]] 的认知：A data collection tool for team awareness training where participant identities are not recorded or disclosed, a requirement that must be explicitly communicated to all participants prior to form completion.
+- 2026-04-24: 来自 [[forms]] 的认知：A data collection tool for team awareness training where participant identities are not recorded or disclosed, a requirement that must be explicitly communicated to all participants prior to form completion.

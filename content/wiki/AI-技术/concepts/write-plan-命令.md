@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # write-plan 命令
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/commands/write-plan]] 的认知：Superpowers工具集中的一个命令，功能是创建带细分小型任务的详细实现计划，执行时需要调用writing-plans技能。
+- 2026-04-14: 来自 [[write-plan]] 的认知：Superpowers工具集中的一个命令，功能是创建带细分小型任务的详细实现计划，执行时需要调用writing-plans技能。

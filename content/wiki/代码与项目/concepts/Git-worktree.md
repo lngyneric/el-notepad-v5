@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Git worktree
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/using-git-worktrees/SKILL]] 的认知：Git提供的功能，可以为同一个仓库创建多个隔离的工作区，允许开发者同时在多个分支上工作，无需频繁切换分支。
+- 2026-04-14: 来自 [[SKILL]] 的认知：Git提供的功能，可以为同一个仓库创建多个隔离的工作区，允许开发者同时在多个分支上工作，无需频繁切换分支。

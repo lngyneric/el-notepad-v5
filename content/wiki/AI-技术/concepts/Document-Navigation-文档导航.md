@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Document Navigation（文档导航）
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/36-Glossary]] 的认知：文档集中用于支持章节间跳转的功能模块，包含上一章、下一章及首页的跳转链接，方便读者浏览内容。
+- 2026-04-24: 来自 [[36-Glossary]] 的认知：文档集中用于支持章节间跳转的功能模块，包含上一章、下一章及首页的跳转链接，方便读者浏览内容。

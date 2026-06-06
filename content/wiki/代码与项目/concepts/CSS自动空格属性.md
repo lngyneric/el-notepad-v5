@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # CSS自动空格属性
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/rules/chinese-copywriting-guidelines]] 的认知：指CSS Text Module Level 4的text-spacing与微软-ms-text-autospace属性，可实现中英文自动添加空格，但目前普及度较低。
+- 2026-04-24: 来自 [[chinese-copywriting-guidelines]] 的认知：指CSS Text Module Level 4的text-spacing与微软-ms-text-autospace属性，可实现中英文自动添加空格，但目前普及度较低。

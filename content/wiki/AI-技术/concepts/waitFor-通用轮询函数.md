@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # waitFor 通用轮询函数
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/systematic-debugging/condition-based-waiting]] 的认知：基于条件的等待的通用实现，通过固定间隔轮询检查目标条件，超时后抛出明确错误，是实现条件等待的基础工具。
+- 2026-04-14: 来自 [[condition-based-waiting]] 的认知：基于条件的等待的通用实现，通过固定间隔轮询检查目标条件，超时后抛出明确错误，是实现条件等待的基础工具。

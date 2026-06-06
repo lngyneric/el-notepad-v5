@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # In Progress Status（进行中状态）
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/36-Glossary]] 的认知：用于标识文档章节开发进度的标记，代表该章节正在开展翻译、格式整理等工作，尚未最终完成。
+- 2026-04-24: 来自 [[36-Glossary]] 的认知：用于标识文档章节开发进度的标记，代表该章节正在开展翻译、格式整理等工作，尚未最终完成。

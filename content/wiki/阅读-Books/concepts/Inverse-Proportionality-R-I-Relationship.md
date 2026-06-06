@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Inverse Proportionality (R-I Relationship)
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/04_文档与参考/Markdown文档/Ohms_Law_Water_Analogy]] 的认知：The core Ohm's Law relationship where resistance is inversely proportional to current: increasing resistance (pipe constriction) decreases current (flow rate) when voltage is held constant.
+- 2026-04-24: 来自 [[Ohms_Law_Water_Analogy]] 的认知：The core Ohm's Law relationship where resistance is inversely proportional to current: increasing resistance (pipe constriction) decreases current (flow rate) when voltage is held constant.

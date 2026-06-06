@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # ark-code-latest
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/ARCHITECTURE]] 的认知：OpenMAIC用于生成结构化课程大纲的豆包大模型版本。
+- 2026-04-24: 来自 [[ARCHITECTURE]] 的认知：OpenMAIC用于生成结构化课程大纲的豆包大模型版本。

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # JWT令牌
 
 ## Evolution Log
-- 2026-04-15: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/tests/skill-triggering/prompts/writing-plans]] 的认知：本身份验证系统中用户登录成功后获取的身份凭证，用于访问受保护路由，有效期为24小时。
+- 2026-04-15: 来自 [[Writing-Plans]] 的认知：本身份验证系统中用户登录成功后获取的身份凭证，用于访问受保护路由，有效期为24小时。

@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Daily Flow Hour
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-05-flow]] 的认知：A practical intervention to increase flow at work, consisting of a scheduled 1-hour daily period of completely undisturbed work (free of physical, digital, and phone distractions) assigned as core homework in the Team Awareness Training program.
+- 2026-04-24: 来自 [[session-05-flow]] 的认知：A practical intervention to increase flow at work, consisting of a scheduled 1-hour daily period of completely undisturbed work (free of physical, digital, and phone distractions) assigned as core homework in the Team Awareness Training program.

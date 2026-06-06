@@ -177,8 +177,8 @@ Bush 无法解决的部分是：谁来做维护？LLM 现在处理这个问题�
 
 ## 相关概念
 
-- [[Wiki 架构设计]]
-- [[维基索引]]
+- [[Wiki 架构设计]]<!-- BROKEN --><!-- BROKEN --><!-- BROKEN -->
+- [[维基索引]]<!-- BROKEN --><!-- BROKEN -->
 - [[SCHEMA]]
 
 ## 参考资源
@@ -203,4 +203,4 @@ source-url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/维基工作区摘要]] 的认知：xcxnotes维基参考的核心知识库构建模式，原始灵感来自Andrej Karpathy的公开Gist，依托LLM实现结构化维基页面的自动生成与持续维护。
+- 2026-04-24: 来自 [[维基工作区摘要]] 的认知：xcxnotes维基参考的核心知识库构建模式，原始灵感来自Andrej Karpathy的公开Gist，依托LLM实现结构化维基页面的自动生成与持续维护。

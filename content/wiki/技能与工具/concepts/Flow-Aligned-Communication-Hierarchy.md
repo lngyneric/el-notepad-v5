@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Flow-Aligned Communication Hierarchy
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-05-flow]] 的认知：A tiered workplace communication system designed to minimize disruptions to flow states, where email is used for requests with 1-2 day timelines, instant messaging (e.g., Slack) for requests needed within the hour, and in-person interruption is only permitted for active crisis situations.
+- 2026-04-24: 来自 [[session-05-flow]] 的认知：A tiered workplace communication system designed to minimize disruptions to flow states, where email is used for requests with 1-2 day timelines, instant messaging (e.g., Slack) for requests needed within the hour, and in-person interruption is only permitted for active crisis situations.

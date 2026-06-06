@@ -8,5 +8,5 @@ tags: [wiki, wiki/concept]
 # Superpowers for Codex
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/04_技能与工具/Superpowers/superpowers-main/docs/README.codex]] 的认知：An experimental, complete skill extension system designed to add reusable, loadable skill functionality to OpenAI Codex.
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/docs/README.codex]] 的认知：配合OpenAI Codex使用的技能扩展工具集，提供技能管理、加载能力，支持用户自定义个人技能。
+- 2026-04-24: 来自 [[README.codex]] 的认知：An experimental, complete skill extension system designed to add reusable, loadable skill functionality to OpenAI Codex.
+- 2026-04-14: 来自 [[README.codex]] 的认知：配合OpenAI Codex使用的技能扩展工具集，提供技能管理、加载能力，支持用户自定义个人技能。

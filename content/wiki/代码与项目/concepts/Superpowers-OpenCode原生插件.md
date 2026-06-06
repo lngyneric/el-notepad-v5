@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Superpowers OpenCode原生插件
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/docs/plans/2025-11-22-opencode-support-design]] 的认知：为Superpowers项目开发的OpenCode.ai原生支持插件，基于OpenCode官方JavaScript/TypeScript插件系统构建，与现有Codex实现共享核心技能处理逻辑。
+- 2026-04-14: 来自 [[2025-11-22-opencode-support-design]] 的认知：为Superpowers项目开发的OpenCode.ai原生支持插件，基于OpenCode官方JavaScript/TypeScript插件系统构建，与现有Codex实现共享核心技能处理逻辑。

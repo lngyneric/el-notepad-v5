@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # LLM as Cognitive Engine of Agentic Systems / 大语言模型作为智能体认知引擎
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/03-Foreword]] 的认知：Large language models function as the core cognitive engines of agentic systems, whose powerful capabilities must be harnessed through structured and thoughtful design to build effective agentic applications.
+- 2026-04-24: 来自 [[03-Foreword]] 的认知：Large language models function as the core cognitive engines of agentic systems, whose powerful capabilities must be harnessed through structured and thoughtful design to build effective agentic applications.

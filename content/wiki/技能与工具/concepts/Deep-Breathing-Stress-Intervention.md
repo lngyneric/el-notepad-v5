@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Deep Breathing (Stress Intervention)
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-01-stress]] 的认知：A simple, evidence-based method to counteract the fight-flight-or-freeze response, practiced via diaphragmatic breathing (stomach expansion on inhale, contraction on exhale), with optional supporting tools like counting breaths or nose breathing, requiring consistent daily practice for results.
+- 2026-04-24: 来自 [[session-01-stress]] 的认知：A simple, evidence-based method to counteract the fight-flight-or-freeze response, practiced via diaphragmatic breathing (stomach expansion on inhale, contraction on exhale), with optional supporting tools like counting breaths or nose breathing, requiring consistent daily practice for results.

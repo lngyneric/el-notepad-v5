@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Agentic Systems / 智能体系统
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/03-Foreword]] 的认知：A type of intelligent system (as defined in *Agentic Design Patterns*) that can reason, plan, and act to achieve complex goals with ambiguous tasks, representing the next frontier of AI development.
+- 2026-04-24: 来自 [[03-Foreword]] 的认知：A type of intelligent system (as defined in *Agentic Design Patterns*) that can reason, plan, and act to achieve complex goals with ambiguous tasks, representing the next frontier of AI development.

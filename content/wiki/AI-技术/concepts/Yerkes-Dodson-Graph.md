@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Yerkes-Dodson Graph
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-01-stress]] 的认知：A graphical model depicting the bell-curve relationship between stress and productivity, where the optimal stress level and curve shape varies based on the complexity and nature of the activity being performed.
+- 2026-04-24: 来自 [[session-01-stress]] 的认知：A graphical model depicting the bell-curve relationship between stress and productivity, where the optimal stress level and curve shape varies based on the complexity and nature of the activity being performed.

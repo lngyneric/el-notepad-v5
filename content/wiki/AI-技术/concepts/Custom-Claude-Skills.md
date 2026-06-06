@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Custom Claude Skills
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/skills/skills/README]] 的认知：User-created skills built using a simple folder structure with a `SKILL.md` file, following the template and specification provided in this repository to extend Claude's capabilities for custom use cases.
+- 2026-04-24: 来自 [[README]] 的认知：User-created skills built using a simple folder structure with a `SKILL.md` file, following the template and specification provided in this repository to extend Claude's capabilities for custom use cases.

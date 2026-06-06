@@ -8,6 +8,6 @@ tags: [wiki, wiki/concept]
 # 测试驱动开发(TDD)
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/test-driven-development/SKILL]] 的认知：一种软件开发实践，核心要求是在编写生产实现代码之前，先编写能够验证目标功能的失败测试，再编写最少代码让测试通过，最后重构整理代码，强调先失败后实现的顺序来保证测试的有效性。
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/subagent-driven-development/implementer-prompt]] 的认知：一种开发方法，要求先编写测试再编写实现代码，本模板要求如果任务指定则需要遵循该流程开展开发。
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/README]] 的认知：Superpowers强制要求的开发实践，遵循RED-GREEN-REFACTOR流程，要求先编写失败的测试，再编写最简代码让测试通过，最后重构。
+- 2026-04-14: 来自 [[SKILL]] 的认知：一种软件开发实践，核心要求是在编写生产实现代码之前，先编写能够验证目标功能的失败测试，再编写最少代码让测试通过，最后重构整理代码，强调先失败后实现的顺序来保证测试的有效性。
+- 2026-04-14: 来自 [[implementer-prompt]] 的认知：一种开发方法，要求先编写测试再编写实现代码，本模板要求如果任务指定则需要遵循该流程开展开发。
+- 2026-04-14: 来自 [[README]] 的认知：Superpowers强制要求的开发实践，遵循RED-GREEN-REFACTOR流程，要求先编写失败的测试，再编写最简代码让测试通过，最后重构。

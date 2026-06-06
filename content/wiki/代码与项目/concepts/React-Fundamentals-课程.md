@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # React Fundamentals 课程
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/01_项目文档/产品需求与功能设计/bulk-course-import]] 的认知：面向React入门学习者的基础课程，内容覆盖React基础概念、环境搭建、组件与Props等核心基础知识点。
+- 2026-04-14: 来自 [[Bulk-Course-Import]] 的认知：面向React入门学习者的基础课程，内容覆盖React基础概念、环境搭建、组件与Props等核心基础知识点。

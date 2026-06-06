@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # code-reviewer子代理
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/requesting-code-review/SKILL]] 的认知：Superpowers框架中负责执行代码审查的子代理，由开发者调度，对指定提交范围的代码给出评审反馈和推进建议。
+- 2026-04-14: 来自 [[SKILL]] 的认知：Superpowers框架中负责执行代码审查的子代理，由开发者调度，对指定提交范围的代码给出评审反馈和推进建议。

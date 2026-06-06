@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Intelligent tools (智能工具)
 
 ## Evolution Log
-- 2026-04-24: 来自 [[wiki/summaries/05_代码与项目/agentic-design-patterns/agentic-design-patterns/01-Dedication]] 的认知：The core subject of the *Agentic Design Patterns* book, referring to advanced technological systems that will shape future society, which the author hopes will be guided by the younger generation with wisdom and compassion.
+- 2026-04-24: 来自 [[01-Dedication]] 的认知：The core subject of the *Agentic Design Patterns* book, referring to advanced technological systems that will shape future society, which the author hopes will be guided by the younger generation with wisdom and compassion.

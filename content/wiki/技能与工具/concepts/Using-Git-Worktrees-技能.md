@@ -8,4 +8,4 @@ tags: [wiki, wiki/concept]
 # Using Git Worktrees 技能
 
 ## Evolution Log
-- 2026-04-14: 来自 [[wiki/sources/04_技能与工具/Superpowers/superpowers-main/skills/using-git-worktrees/SKILL]] 的认知：一套创建隔离Git工作区的标准化开发流程，适用于需要隔离工作区的功能开发场景，核心是系统化目录选择和安全验证保证隔离可靠性。
+- 2026-04-14: 来自 [[SKILL]] 的认知：一套创建隔离Git工作区的标准化开发流程，适用于需要隔离工作区的功能开发场景，核心是系统化目录选择和安全验证保证隔离可靠性。
