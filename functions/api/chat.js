@@ -1,4 +1,4 @@
-// Cloudflare Pages Function - AI Chat API v4
+// Cloudflare Pages Function - AI Chat API v5
 function searchIndex(index, question, topK) {
   const q = question.toLowerCase();
   const scores = [];
@@ -11,9 +11,7 @@ function searchIndex(index, question, topK) {
       if (term.length >= 2 && text.includes(term)) {
         if (item.title.toLowerCase().includes(term)) score += 5;
         let pos = 0;
-        let count = 0;
-        while ((pos = text.indexOf(term, pos)) !== -1) { count++; pos += term.length; }
-        score += count;
+        while ((pos = text.indexOf(term, pos)) !== -1) { score++; pos += term.length; }
       }
     }
     if (score > 0) scores.push({ slug, title: item.title, content: (item.content || "").slice(0, 500), score });
@@ -47,27 +45,35 @@ export async function onRequest(context) {
     const ctx = results.map(function(r, i) {
       return "[S" + (i+1) + "] " + r.title + "\n" + (r.content || "").slice(0, 300) + "\n---";
     }).join("\n");
+    const sources = results.map(function(r) { return r.slug; });
 
     if (!env.AI) {
-      return new Response(JSON.stringify({
-        answer: results.length > 0 ? "Found:\n" + results.map(function(r) { return "- " + r.title; }).join("\n") : "Not found",
-        sources: results.map(function(r) { return r.slug; })
-      }), { headers });
+      const answer = results.length > 0
+        ? "Found:\n" + results.map(function(r) { return "- " + r.title; }).join("\n")
+        : "Not found.";
+      return new Response(JSON.stringify({ answer: answer, sources: sources }), { headers });
     }
 
-    const sys = "You are a wiki assistant. Answer based on context. Be concise in Chinese.\n\nContext:\n" + (ctx || "No content.");
-    const answer = await env.AI.run("@cf/google/gemma-4-26b-a4b-it", {
+    const sys = "You are a helpful wiki assistant. Answer based on the context below. Be concise in Chinese.\n\nContext:\n" + (ctx || "No relevant content found. Tell the user you couldn't find relevant information.");
+
+    const resp = await env.AI.run("@cf/google/gemma-4-26b-a4b-it", {
       messages: [
         { role: "system", content: sys },
         { role: "user", content: question }
       ]
     });
-    const text = answer.response || JSON.stringify(answer);
 
-    return new Response(JSON.stringify({
-      answer: text,
-      sources: results.map(function(r) { return r.slug; })
-    }), { headers });
+    // Gemma 4 returns OpenAI-compatible format
+    let answer = "";
+    if (resp.response) {
+      answer = resp.response;
+    } else if (resp.choices && resp.choices[0] && resp.choices[0].message) {
+      answer = resp.choices[0].message.content;
+    } else {
+      answer = JSON.stringify(resp);
+    }
+
+    return new Response(JSON.stringify({ answer: answer, sources: sources }), { headers });
 
   } catch(e) {
     return new Response(JSON.stringify({ error: e.message }), { status: 500, headers });
