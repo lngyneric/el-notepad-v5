@@ -346,7 +346,7 @@ export function renderPage(
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug} data-basepath={basePath}>
+      <body data-slug={slug} data-basepath={basePath}><nav class="global-nav"><a href="/">🏠 Home</a><a href="/landing/">🧭 Map</a><a href="/wiki/">📂 Wiki</a></nav>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
@@ -365,7 +365,7 @@ export function renderPage(
             ]}
           </Body>
         </div>
-      </body>
+      <script src="/static/chat-widget.js" defer></script></body>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
         .map((res) => JSResourceToScriptElement(res, true))}
