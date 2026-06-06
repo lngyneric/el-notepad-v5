@@ -34,7 +34,7 @@
 - [[Reliance-on-Technology-in-Science]]
 - [[Repository-Markdown-Development-Workflow]]
 - [[SKILL-md-Custom-Skill-Template]]
-- [[SKILL-md]]
+- [[SKILL-md]]<!-- BROKEN (已删除空文件) -->
 - [[Skill-Creator]]
 - [[Skill-Front-Matter-Metadata]]
 - [[Skill-Superpowers]]
