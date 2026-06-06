@@ -106,6 +106,8 @@ export default (() => {
             return resource
           }
         })}
+      
+        <script src="/static/chat-widget.js" defer></script>
       </head>
     )
   }
