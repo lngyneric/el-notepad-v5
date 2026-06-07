@@ -1,2 +1,31 @@
-// Gallery Lightbox
-(function(){document.addEventListener("click",function(e){var a=e.target.closest(".g-item");if(!a)return;e.preventDefault();var src=a.dataset.src;if(!src)src=a.querySelector("img")&&a.querySelector("img").src;if(!src)return;var lb=document.getElementById("gallery-lb");if(!lb){lb=document.createElement("div");lb.id="gallery-lb";lb.innerHTML="<span id=gallery-lb-close>&times;</span><img id=gallery-lb-img>";var css="#gallery-lb{display:none;position:fixed;z-index:99999;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.95);cursor:pointer;align-items:center;justify-content:center}#gallery-lb.open{display:flex}#gallery-lb-img{max-width:95vw;max-height:95vh;object-fit:contain}#gallery-lb-close{position:absolute;top:16px;right:24px;color:#fff;font-size:36px;font-weight:700;z-index:10}@media(orientation:landscape){#gallery-lb-img{max-width:98vw;max-height:98vh}}";var s=document.createElement("style");s.textContent=css;document.head.appendChild(s);document.body.appendChild(lb);lb.onclick=function(ev){if(ev.target===lb||ev.target.id==="gallery-lb-close"){lb.classList.remove("open");document.body.style.overflow=""}};}var img=document.getElementById("gallery-lb-img");img.src=src;lb.classList.add("open");document.body.style.overflow="hidden"})})();
+// Gallery Lightbox v2 - supports div.g-item
+(function(){
+  document.addEventListener("click",function(e){
+    var a=e.target.closest(".g-item");
+    if(!a)return;
+    var src=a.dataset.src;
+    if(!src)src=a.querySelector("img")&&a.querySelector("img").src;
+    if(!src)return;
+    var lb=document.getElementById("gallery-lb");
+    if(!lb){
+      lb=document.createElement("div");
+      lb.id="gallery-lb";
+      lb.innerHTML="<span id=gallery-lb-close>&times;</span><img id=gallery-lb-img>";
+      var css="#gallery-lb{display:none;position:fixed;z-index:99999;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.95);cursor:pointer;align-items:center;justify-content:center}#gallery-lb.open{display:flex}#gallery-lb-img{max-width:95vw;max-height:95vh;object-fit:contain}#gallery-lb-close{position:absolute;top:16px;right:24px;color:#fff;font-size:36px;font-weight:700;z-index:10}@media(orientation:landscape){#gallery-lb-img{max-width:98vw;max-height:98vh}}";
+      var s=document.createElement("style");
+      s.textContent=css;
+      document.head.appendChild(s);
+      document.body.appendChild(lb);
+      lb.onclick=function(ev){
+        if(ev.target===lb||ev.target.id==="gallery-lb-close"){
+          lb.classList.remove("open");
+          document.body.style.overflow="";
+        }
+      };
+    }
+    var img=document.getElementById("gallery-lb-img");
+    img.src=src;
+    lb.classList.add("open");
+    document.body.style.overflow="hidden";
+  });
+})();
