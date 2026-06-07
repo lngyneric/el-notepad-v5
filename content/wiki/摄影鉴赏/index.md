@@ -391,3 +391,37 @@ tags: [photography, gallery]
 
 <style>.g-p,.g-l{display:grid;gap:8px;margin:16px 0}.g-p{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}.g-l{grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}.g-p .g-item,.g-l .g-item{display:block;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.1);transition:transform .15s;line-height:0}.g-p .g-item:hover,.g-l .g-item:hover{transform:scale(1.02);cursor:pointer}.g-p img,.g-l img{width:100%;height:auto;display:block;image-orientation:from-image}@media(max-width:600px){.g-p{grid-template-columns:repeat(2,1fr)}.g-l{grid-template-columns:1fr}.g-p img{min-height:120px;object-fit:cover}}@media(min-width:601px){.g-p img{min-height:160px;object-fit:cover}}</style>
 <script src=/static/gallery-lightbox.js defer></script>
+
+<script>// Gallery Lightbox v2 - supports div.g-item
+(function(){
+  document.addEventListener("click",function(e){
+    var a=e.target.closest(".g-item");
+    if(!a)return;
+    var src=a.dataset.src;
+    if(!src)src=a.querySelector("img")&&a.querySelector("img").src;
+    if(!src)return;
+    var lb=document.getElementById("gallery-lb");
+    if(!lb){
+      lb=document.createElement("div");
+      lb.id="gallery-lb";
+      lb.innerHTML="<span id=gallery-lb-close>&times;</span><img id=gallery-lb-img>";
+      var css="#gallery-lb{display:none;position:fixed;z-index:99999;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.95);cursor:pointer;align-items:center;justify-content:center}#gallery-lb.open{display:flex}#gallery-lb-img{max-width:95vw;max-height:95vh;object-fit:contain}#gallery-lb-close{position:absolute;top:16px;right:24px;color:#fff;font-size:36px;font-weight:700;z-index:10}@media(orientation:landscape){#gallery-lb-img{max-width:98vw;max-height:98vh}}";
+      var s=document.createElement("style");
+      s.textContent=css;
+      document.head.appendChild(s);
+      document.body.appendChild(lb);
+      lb.onclick=function(ev){
+        if(ev.target===lb||ev.target.id==="gallery-lb-close"){
+          lb.classList.remove("open");
+          document.body.style.overflow="";
+        }
+      };
+    }
+    var img=document.getElementById("gallery-lb-img");
+    img.src=src;
+    lb.classList.add("open");
+    document.body.style.overflow="hidden";
+  });
+})();
+</script>
+
