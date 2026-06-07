@@ -26,12 +26,12 @@ md+="<div class=g-"+cls+">"+NL;
 for(var i=0;i<items.length;i++){
 var fn=items[i];
 var alt=esc(fn.replace(/.jpg$/,""));
-md+="<a href=camera-roll/"+encodeURIComponent(fn)+" target=_blank><img src=camera-roll/"+encodeURIComponent(fn)+" loading=lazy alt=\""+alt+"\"></a>"+NL;}
+md+="<a href=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(fn)+" target=_blank><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(fn)+" loading=lazy alt=\""+alt+"\"></a>"+NL;}
 md+="</div>"+NL+NL;});
 if(groups["其他"]){
 md+="## 其他 ("+groups["其他"].length+")"+NL+NL+"<div class=g-p>"+NL;
 for(var i=0;i<groups["其他"].length;i++){
-md+="<a href=camera-roll/"+encodeURIComponent(groups["其他"][i])+" target=_blank><img src=camera-roll/"+encodeURIComponent(groups["其他"][i])+" loading=lazy></a>"+NL;}
+md+="<a href=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(groups["其他"][i])+" target=_blank><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(groups["其他"][i])+" loading=lazy></a>"+NL;}
 md+="</div>"+NL;}
 var css=".g-p,.g-l{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;margin:16px 0}.g-l{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}.g-p a,.g-l a{display:block;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.1);transition:transform .15s;line-height:0}.g-p a:hover,.g-l a:hover{transform:scale(1.02)}.g-p img,.g-l img{width:100%;height:auto;display:block}@media(max-width:600px){.g-p{grid-template-columns:repeat(2,1fr)}.g-l{grid-template-columns:1fr}}";
 md+="<style>"+css+"</style>"+NL;

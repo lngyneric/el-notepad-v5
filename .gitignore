@@ -11,3 +11,6 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# 摄影照片 - 存储在 Cloudflare R2
+content/wiki/摄影鉴赏/Camera Roll/
