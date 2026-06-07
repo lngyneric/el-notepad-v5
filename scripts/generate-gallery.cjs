@@ -33,7 +33,7 @@ md+="## 其他 ("+groups["其他"].length+")"+NL+NL+"<div class=g-p>"+NL;
 for(var i=0;i<groups["其他"].length;i++){
 md+="<a href=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(groups["其他"][i])+" target=_blank><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/"+encodeURIComponent(groups["其他"][i])+" loading=lazy></a>"+NL;}
 md+="</div>"+NL;}
-var css=".g-p,.g-l{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;margin:16px 0}.g-l{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}.g-p a,.g-l a{display:block;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.1);transition:transform .15s;line-height:0}.g-p a:hover,.g-l a:hover{transform:scale(1.02)}.g-p img,.g-l img{width:100%;height:auto;display:block}@media(max-width:600px){.g-p{grid-template-columns:repeat(2,1fr)}.g-l{grid-template-columns:1fr}}";
+var css=".g-p,.g-l{display:grid;gap:8px;margin:16px 0}.g-p{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}.g-l{grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}.g-p a,.g-l a{display:block;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.1);transition:transform .15s;line-height:0}.g-p a:hover,.g-l a:hover{transform:scale(1.02)}.g-p img,.g-l img{width:100%;height:auto;display:block;image-orientation:from-image}@media(max-width:600px){.g-p{grid-template-columns:repeat(2,1fr)}.g-l{grid-template-columns:1fr}.g-p img{min-height:120px;object-fit:cover}}@media(min-width:601px){.g-p img{min-height:160px;object-fit:cover}}";
 md+="<style>"+css+"</style>"+NL;
 f.writeFileSync(p.join(__dirname,"..","content","wiki","摄影鉴赏","index.md"),md);
 console.log("[gallery] "+j.length+" photos, "+Object.keys(groups).length+" sections");
