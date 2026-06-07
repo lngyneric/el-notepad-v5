@@ -1,4 +1,5 @@
 const f=require("fs"),p=require("path");
+require("./generate-gallery.cjs");
 function walk(d,list){f.readdirSync(d).forEach(n=>{const fp=p.join(d,n);if(f.statSync(fp).isDirectory())walk(fp,list);else if(n.endsWith(".md"))list.push(fp);});}
 const all=[];walk(p.join(__dirname,"..","content","wiki"),all);
 const ld=p.join(__dirname,"..","public","landing");

@@ -6,37 +6,7 @@ tags: [photography, gallery]
 
 # 摄影鉴赏
 
-> 共 226 张照片
-
-## 竖向写真 (6)
-
-<div class=g-p>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-1.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-1.jpg loading=lazy alt="portrait-1"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-2.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-2.jpg loading=lazy alt="portrait-2"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-3.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-3.jpg loading=lazy alt="portrait-3"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-4.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-4.jpg loading=lazy alt="portrait-4"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-5.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-5.jpg loading=lazy alt="portrait-5"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-6.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/portrait-6.jpg loading=lazy alt="portrait-6"></div>
-</div>
-
-## 横向全景 (14)
-
-<div class=g-l>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-1.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-1.jpg loading=lazy alt="panorama-1"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-10.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-10.jpg loading=lazy alt="panorama-10"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-11.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-11.jpg loading=lazy alt="panorama-11"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-12.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-12.jpg loading=lazy alt="panorama-12"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-13.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-13.jpg loading=lazy alt="panorama-13"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-14.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-14.jpg loading=lazy alt="panorama-14"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-2.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-2.jpg loading=lazy alt="panorama-2"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-3.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-3.jpg loading=lazy alt="panorama-3"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-4.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-4.jpg loading=lazy alt="panorama-4"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-5.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-5.jpg loading=lazy alt="panorama-5"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-6.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-6.jpg loading=lazy alt="panorama-6"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-7.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-7.jpg loading=lazy alt="panorama-7"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-8.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-8.jpg loading=lazy alt="panorama-8"></div>
-<div class=g-item data-src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-9.jpg><img src=https://pub-2f93b1eccd0743b9b0e353c78356c150.r2.dev/panorama-9.jpg loading=lazy alt="panorama-9"></div>
-</div>
+> 共 206 张照片
 
 ## 冰岛·人物 (9)
 
