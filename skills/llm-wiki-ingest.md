@@ -21,7 +21,9 @@ description: 摄入新源文件到所属领域维基（禁止跨域链接）
    - entities/: 新实体页面
    - **只建本域双链**: [[概念名]] 只链接同领域的页面
 5. **更新 index.md + log.md**
-6. **git commit + push**
+6. **页面完整性检查**: 确认 summaries/ 文件数 = 新源文件数，concepts/ 文件数在合理范围，sources/ 副本完整
+7. **更新根目录索引**: 检查 content/index.md 中是否有所属领域的入口链接，如缺失则补入
+8. **git add -A + git commit + git push**
 
 ## 概念页面模板
 ```markdown
@@ -52,4 +54,6 @@ source-updated: "YYYY-MM-DD"
 - [ ] summaries/ 已创建
 - [ ] concepts/ 已创建或更新
 - [ ] index.md + log.md 已更新
-- [ ] git commit + push
+- [ ] 页面完整性已确认
+- [ ] 根目录 index.md 已同步
+- [ ] git add + commit + push
