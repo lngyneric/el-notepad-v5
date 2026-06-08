@@ -5,6 +5,9 @@ category: "开发框架"
 date: 2026-04-15
 summary: "基于Go语言开发的命令行工具，用于生成ASCII格式的分形图案，包含谢尔宾斯基三角形和曼德博集合两种分形生成功能。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Go Fractals CLI

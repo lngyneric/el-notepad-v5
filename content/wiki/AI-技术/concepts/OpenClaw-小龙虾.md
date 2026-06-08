@@ -5,6 +5,9 @@ category: "协同工具"
 date: 2026-04-24
 summary: "可云端搭建的技术环境，读者观点认为其在物理世界是人的血缘至亲，信息世界是人的分身，AI世界是人的增幅器。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # OpenClaw（小龙虾）

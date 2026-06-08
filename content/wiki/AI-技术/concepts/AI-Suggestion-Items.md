@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "AI-generated recommended work tasks for the 2026-01-20 reagent-related daily workflow, including 3 completed items and 1 incomplete item of collecting AI project information from various departments."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AI Suggestion Items

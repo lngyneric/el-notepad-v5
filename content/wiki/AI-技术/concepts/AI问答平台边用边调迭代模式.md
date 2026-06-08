@@ -5,6 +5,9 @@ category: "提示工程"
 date: 2026-04-24
 summary: "AI问答平台提示词优化的实效模式，指初步设计完成后即上线平台，通过实际业务场景的用户反馈持续调整提示词，逐步提升问答精准度。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AI问答平台边用边调迭代模式

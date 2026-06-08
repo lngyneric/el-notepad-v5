@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "Two standardized dual-language layout specifications used in the project: a separate full-block format for short content (dedication, acknowledgment, foreword) and an interspersed paragraph-by-paragraph format for long chapter content."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Bilingual Translation Layout Formats

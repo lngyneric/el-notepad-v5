@@ -5,6 +5,9 @@ category: "提示工程"
 date: 2026-04-24
 summary: "本提示词定义的展示牌视觉方案，顶部为突破边界的荧光蓝液态玻璃/霓虹质感「Guizang」手写艺术字，下方深蓝色板面承载白色无衬线字体的精简社交媒体资料，风格对比鲜明，兼具科技感与设计感。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Guizang主题3D展示牌设计规范

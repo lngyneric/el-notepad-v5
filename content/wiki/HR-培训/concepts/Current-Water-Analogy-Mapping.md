@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "In the Ohm's Law water analogy, current (I) is mapped to water flow rate, defined as the rate of flow through the system, with faster flow corresponding to higher current."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Current (Water Analogy Mapping)

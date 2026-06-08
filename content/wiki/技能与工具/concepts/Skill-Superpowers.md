@@ -5,6 +5,9 @@ category: "效率工具"
 date: 2026-04-15
 summary: "Superpowers体系中给AI agent使用的可复用参考，包含经过验证的技术、模式或工具，不是单次问题解决的叙事记录。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Skill (Superpowers)

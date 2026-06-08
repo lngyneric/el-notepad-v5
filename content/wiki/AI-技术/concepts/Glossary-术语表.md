@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "Agentic设计模式系列文档中的术语汇总专用章节，当前处于翻译与格式整理的进行中阶段，暂未提供完整内容。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Glossary（术语表）

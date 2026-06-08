@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-24
 summary: "AI辅助诊断等IVD+AI相关产品的市场规模及增长情况，本素材提及2024年中国AI病理诊断市场规模达125亿元，2025年将突破190亿元。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # IVD-AI市场

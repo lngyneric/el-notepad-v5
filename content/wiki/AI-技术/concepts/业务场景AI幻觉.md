@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "业务类AI问答平台因数据库过度庞大等原因，输出不符合业务事实的错误内容的风险，是平台搭建需重点防控的问题。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 业务场景AI幻觉

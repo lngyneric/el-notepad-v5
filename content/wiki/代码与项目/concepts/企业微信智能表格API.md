@@ -5,6 +5,9 @@ category: "后端开发"
 date: 2026-04-24
 summary: "企业微信提供的用于读写智能表格数据的开放接口，需通过自建应用的corpid、corpsecret获取access_token后才可调用。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 企业微信智能表格API

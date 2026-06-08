@@ -5,6 +5,9 @@ category: "数据工具"
 date: 2026-04-24
 summary: "飞书推出的结构化数据管理产品，本项目用于存储学生档案、测验成绩，同时作为报名入口触发自动化流程。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 飞书多维表格 (Bitable)

@@ -5,6 +5,9 @@ category: "健康与正念"
 date: 2026-04-24
 summary: "A traditional yogic practice focused on breath control, of which the deep breathing stress intervention taught in this session is a form, and one of the eight limbs of traditional yoga alongside postures (asanas), ethics, and meditation."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Pranayama

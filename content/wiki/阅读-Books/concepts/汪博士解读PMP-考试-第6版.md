@@ -5,6 +5,9 @@ category: "项目管理"
 date: 2026-04-24
 summary: "汪小金所著的PMP®备考书籍，基于2019年最新PMP®考纲更新，解读《PMBOK®指南》（第6版），覆盖预测型与敏捷型项目管理方法，提供应试技巧。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 汪博士解读PMP®考试（第6版）

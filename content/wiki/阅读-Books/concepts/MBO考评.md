@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-14
 summary: "目标管理考评体系，本素材中作为市场职能岗位的双向考评规则组成部分。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # MBO考评

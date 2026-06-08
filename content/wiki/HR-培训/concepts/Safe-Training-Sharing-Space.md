@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-24
 summary: "A foundational principle for Team Awareness Training facilitation, requiring facilitators to allow unrushed, voluntary personal reflection sharing, avoid forcing participants to disclose inner states, and exclude devices from sessions to build tru..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Safe Training Sharing Space

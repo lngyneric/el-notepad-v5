@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "Customizable, extendable capabilities for WorkAny's AI agent that expand its core functional scope."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Agent Skills

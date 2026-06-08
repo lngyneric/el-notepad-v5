@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A foundational construct where business processes are as well-architected as code, supported by clean data, consistent metadata, and well-defined APIs to enable safe, high-velocity agentic AI operation."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Programmable Enterprise (Enterprise as Software)

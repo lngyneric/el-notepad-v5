@@ -5,6 +5,9 @@ category: "效率工具"
 date: 2026-04-24
 summary: "A dedicated skill that must be invoked and followed exactly when executing the brainstorm superpower command, to support structured pre-implementation requirement and design exploration."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # superpowers:brainstorming skill

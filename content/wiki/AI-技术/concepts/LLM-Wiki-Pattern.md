@@ -1,3 +1,15 @@
+---
+type: concept
+title: "LLM Wiki Pattern"
+category: "知识管理"
+date: 2026-04-14
+summary: "Karpathy 提出的使用 LLM 作为知识维护者的维基构建模式，与传统 RAG 的区别在于知识复合增长而非每次重新发现。"
+tags: [wiki, concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
+---
+
 # Karpathy LLM Wiki 模式
 
 根据 Andrej Karpathy 提出的 LLM Wiki 模式，这是关于如何构建和维护个人知识库的核心概念页面。

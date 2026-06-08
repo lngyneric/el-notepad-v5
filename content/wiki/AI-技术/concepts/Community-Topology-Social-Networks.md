@@ -5,6 +5,9 @@ category: "RAG知识检索"
 date: 2026-04-24
 summary: "The organizational structure of groups within a social network, a critical driver of influence spread not accounted for by standard RAG pipelines."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Community Topology (Social Networks)

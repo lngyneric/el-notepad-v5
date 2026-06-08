@@ -5,6 +5,9 @@ category: "技能体系"
 date: 2026-04-14
 summary: "一套创建隔离Git工作区的标准化开发流程，适用于需要隔离工作区的功能开发场景，核心是系统化目录选择和安全验证保证隔离可靠性。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Using Git Worktrees 技能

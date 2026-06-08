@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "A new class of AI models that enabled an inflection point: shifting AI from statistical next-word prediction to nascent cognition capable of generating plans, not just content."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Reasoning Models

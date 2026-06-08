@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A core review workflow of the code-reviewer agent that compares implementations against original planning documents, identifies deviations from planned requirements or architecture, assesses whether deviations are justified or problematic, and ver..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Plan Alignment Analysis

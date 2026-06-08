@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "A Node.js command-line utility located at ~/.codex/superpowers/.codex/superpowers-codex that provides three core skill management commands: bootstrap, use-skill, and find-skills."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Superpowers Codex CLI Tool

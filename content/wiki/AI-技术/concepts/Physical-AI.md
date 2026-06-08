@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-14
 summary: "面向物理世界感知、交互的AI技术方向，2026年1月成为科技前沿聚焦领域，技术正走向真实世界应用。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Physical AI

@@ -5,6 +5,9 @@ category: "3D设计"
 date: 2026-04-24
 summary: "将APP转化为微缩城镇建筑的设计规则，核心包括建筑高度严格对应APP使用时长、造型提取APP图标几何特征、材质为磨砂软陶与果冻树脂混合的盲盒质感。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # APP实体化规则

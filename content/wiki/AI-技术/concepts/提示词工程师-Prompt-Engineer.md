@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "针对大模型输入指令优化的专业AI认证，用于提升大模型输出内容的精准性与贴合度，覆盖全部门业务场景。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 提示词工程师（Prompt Engineer）

@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A dedicated chapter in the agentic design patterns documentation intended to act as a lookup index for relevant terminology, which is currently undergoing translation and formatting work."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Term Index (术语索引)

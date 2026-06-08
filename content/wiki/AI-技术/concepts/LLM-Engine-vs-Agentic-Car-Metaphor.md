@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A framing of AI development: the past 18 months focused on LLM capability gains (the 'engine'), while the next era will focus on building agentic frameworks (the 'car') to deploy that capability."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # LLM 'Engine' vs Agentic 'Car' Metaphor

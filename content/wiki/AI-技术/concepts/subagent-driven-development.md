@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-14
 summary: "superpowers技能集中的一种开发技能，用于按计划分任务推进开发，本计划依托该技能执行。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # subagent-driven-development

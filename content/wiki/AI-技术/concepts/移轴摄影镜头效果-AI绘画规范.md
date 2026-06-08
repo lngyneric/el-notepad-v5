@@ -5,6 +5,9 @@ category: "3D设计"
 date: 2026-04-24
 summary: "玻璃瓶微缩地点模型创作要求的核心视觉效果，需将焦点清晰集中于玻璃罐内的微缩景观，罐子外部与背景完全虚化模糊，强化微缩景观的精致感。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 移轴摄影镜头效果（AI绘画规范）

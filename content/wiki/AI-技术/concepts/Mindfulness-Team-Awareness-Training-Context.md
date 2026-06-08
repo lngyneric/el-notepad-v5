@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "In this curriculum, mindfulness is defined practically as a state of full awareness of one's self (thoughts, feelings, breath) and surroundings, framed as extreme single-tasking. The term is noted to be overused and vague due to popular hype, so c..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Mindfulness (Team Awareness Training Context)

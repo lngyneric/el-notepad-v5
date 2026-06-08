@@ -5,6 +5,9 @@ category: "RAG知识检索"
 date: 2026-04-24
 summary: "AI问答平台数据处理的核心逻辑，需以实际工作中查询资料的路径为参考为资料库精准打Tag，结合业务流程设计AI检索工作流，确保回答的准确性。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 业务导向AI数据处理

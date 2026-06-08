@@ -5,6 +5,9 @@ category: "协同工具"
 date: 2026-04-24
 summary: "OpenMAIC运维的核心数据保护措施，需定期手动备份存储学习进度的memory/main.sqlite文件，飞书Bitable相关数据由飞书云端自动备份。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # OpenMAIC数据备份

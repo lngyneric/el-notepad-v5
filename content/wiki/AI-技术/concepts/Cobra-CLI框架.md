@@ -5,6 +5,9 @@ category: "开发框架"
 date: 2026-04-15
 summary: "本项目使用的Go语言命令行应用开发框架，用于构建带帮助系统的根命令和子命令结构。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Cobra CLI框架

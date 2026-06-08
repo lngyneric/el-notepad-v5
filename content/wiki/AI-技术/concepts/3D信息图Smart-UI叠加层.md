@@ -5,6 +5,9 @@ category: "3D设计"
 date: 2026-04-24
 summary: "3D信息图的信息标注模块，通过在每个3D模型上方设置悬浮3D气泡标签，标注对应模型或内容的名称。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 3D信息图Smart UI叠加层

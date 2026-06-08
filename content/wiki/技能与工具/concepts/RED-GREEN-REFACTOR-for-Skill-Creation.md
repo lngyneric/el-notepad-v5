@@ -5,6 +5,9 @@ category: "技能体系"
 date: 2026-04-15
 summary: "适配技能创建的TDD循环：RED阶段记录无技能时的基线失败行为，GREEN阶段编写最小技能验证合规，REFACTOR阶段关闭漏洞完成打磨。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # RED-GREEN-REFACTOR for Skill Creation

@@ -5,6 +5,9 @@ category: "项目管理"
 date: 2026-04-14
 summary: "用于启动工作日、触发工作记录填报流程的命令"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # work_planner.py start

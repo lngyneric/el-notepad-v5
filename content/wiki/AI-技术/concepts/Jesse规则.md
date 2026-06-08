@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-14
 summary: "即「立即修复问题」规则，当发现项目本地工作树目录未被git忽略时，需要立刻添加gitignore规则并提交，之后再继续创建工作树。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Jesse规则

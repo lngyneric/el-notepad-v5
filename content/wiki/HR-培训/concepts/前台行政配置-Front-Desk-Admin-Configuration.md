@@ -5,6 +5,9 @@ category: "培训体系"
 date: 2026-06-06
 summary: "针对行政前台岗位定制的10个定时任务，覆盖上班巡检、中午值班、快递核对、下班巡检、周末加班汇总、月度结账、考勤、值班表、电话本更新、消耗品更换等。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 前台行政配置 (Front Desk Admin Configuration)

@@ -5,6 +5,9 @@ category: "培训体系"
 date: 2026-06-06
 summary: "Skill 将任务分为三个预设项目（重要活动、自动化、每天的活），每个项目有独立的提醒规则，例如重要活动需设事件日期并提前7天、3天、1天提醒。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 项目提醒 (Project Reminder)

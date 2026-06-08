@@ -1,6 +1,6 @@
 # 技能与工具 维基索引
 
-## 概念 (82 个)
+## 概念 (83 个)
 
 - [[Active-Meditation]]
 - [[Amygdala-Stress-Function]]
@@ -46,6 +46,7 @@
 - [[Stress-Self-Medication]]
 - [[Superpowers技能系统]]
 - [[Superpowers技能集成测试]]
+- [[Superpowers-安装与引导]]
 - [[Using-Git-Worktrees-技能]]
 - [[Writing-Skills-Skill-Creation]]
 - [[find-skills工具]]
@@ -88,7 +89,7 @@
 ## 实体 (0 个)
 
 
-## 摘要 (39 个)
+## 摘要 (42 个)
 
 - [[03_技能与工具/Graph-RAG/Agentic Graph-RAG Over Social-Network Knowledge Graphs]]
 - [[03_技能与工具/NotebookLM/notebooklm-report-beyond-intelligence-an-introduction-to-building-re-2026-01-17]]
@@ -105,6 +106,9 @@
 - [[04_技能与工具/Superpowers/superpowers-main/docs/testing]]
 - [[04_技能与工具/Superpowers/superpowers-main/README]]
 - [[04_技能与工具/Superpowers/superpowers-main/RELEASE-NOTES]]
+- [[04_技能与工具/Superpowers/superpowers-main/.codex/INSTALL]]
+- [[04_技能与工具/Superpowers/superpowers-main/.opencode/INSTALL]]
+- [[04_技能与工具/Superpowers/superpowers-main/.codex/superpowers-bootstrap]]
 - [[04_文档与参考/Markdown文档/AI github 汇总]]
 - [[04_文档与参考/Markdown文档/AI流程：网页改造APP]]
 - [[04_文档与参考/Markdown文档/Astrill VPN 配置 Antigravity_Gemini CLI_Claude Code 分离规则教程]]

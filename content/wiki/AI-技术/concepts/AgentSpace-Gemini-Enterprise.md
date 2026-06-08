@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A Google Cloud platform designed to facilitate agent-driven enterprises by integrating AI into daily workflows, with capabilities including unified cross-asset search, autonomous agent deployment, and enterprise-grade security. It is currently off..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AgentSpace (Gemini Enterprise)

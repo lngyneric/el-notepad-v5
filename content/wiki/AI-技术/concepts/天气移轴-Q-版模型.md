@@ -5,6 +5,9 @@ category: "3D设计"
 date: 2026-04-24
 summary: "一款灵感源自宝玉玩法的AI生成模型，优化后视觉效果更软润可爱，以拟物化方式呈现天气，支持经纬度或地点输入，适配Nano Banana Pro、Seedream，可用于生成微缩风格的天气主题海报、自媒体封面。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 天气移轴 Q 版模型

@@ -5,6 +5,9 @@ category: "安全"
 date: 2026-04-24
 summary: "项目管理体系中的核心组织职能角色，其定位与职能是PMP考试的基础考点之一。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 项目管理办公室（PMO）

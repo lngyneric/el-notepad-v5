@@ -5,6 +5,9 @@ category: "培训体系"
 date: 2026-04-24
 summary: "本素材中指结构化面试环节应用的核心方法，用于规范面试提问与候选人评估逻辑。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # STAR法则

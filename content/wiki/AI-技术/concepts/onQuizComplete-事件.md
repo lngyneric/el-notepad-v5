@@ -5,6 +5,9 @@ category: "协同工具"
 date: 2026-04-24
 summary: "OpenMAIC提供的事件监听触发器，当学员完成课程测验时触发该事件，用于启动成绩同步逻辑。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # onQuizComplete 事件

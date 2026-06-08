@@ -5,6 +5,9 @@ category: "开发工具"
 date: 2026-04-24
 summary: "An OpenAI-developed tool that enables WorkAny's isolated sandbox environment for secure code execution."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Codex CLI

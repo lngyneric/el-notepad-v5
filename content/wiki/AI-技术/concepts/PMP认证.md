@@ -5,6 +5,9 @@ category: "系统设计"
 date: 2026-04-24
 summary: "项目管理专业人士资格认证，本教材为其专用备考指导用书，覆盖认证申请、材料审查、考试安排、PDU管理、应试技巧等全流程备考内容。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # PMP认证

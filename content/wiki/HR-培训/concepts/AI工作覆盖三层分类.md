@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-24
 summary: "来自 [[HR部门AI应用汇报 (2)]]<!-- BROKEN --> 的认知：本次会议提出的HR工作项分类方法，将所有工作分为三类：AI为主人工仅做校验、人工为主AI做辅助、100%全人工，用于清晰界定AI在各工作中的作用边界，避免笼统表述。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AI工作覆盖三层分类

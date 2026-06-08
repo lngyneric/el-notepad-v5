@@ -5,6 +5,9 @@ category: "内容创作"
 date: 2026-04-24
 summary: "本项目核心功能之一，支持根据用户输入的主题自动生成完整的教学内容与互动测验材料。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AI课程生成

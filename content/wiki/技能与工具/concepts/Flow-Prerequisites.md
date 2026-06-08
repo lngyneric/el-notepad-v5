@@ -5,6 +5,9 @@ category: "健康与正念"
 date: 2026-04-24
 summary: "The three core conditions required to achieve flow: the activity must be meaningful, the activity must be appropriately challenging, and the individual must work undisturbed, with the undisturbed work condition identified as the most difficult to ..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Flow Prerequisites

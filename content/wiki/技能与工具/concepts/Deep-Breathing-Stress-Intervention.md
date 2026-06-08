@@ -5,6 +5,9 @@ category: "健康与正念"
 date: 2026-04-24
 summary: "A simple, evidence-based method to counteract the fight-flight-or-freeze response, practiced via diaphragmatic breathing (stomach expansion on inhale, contraction on exhale), with optional supporting tools like counting breaths or nose breathing, ..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Deep Breathing (Stress Intervention)

@@ -5,6 +5,9 @@ category: "前端开发"
 date: 2026-04-24
 summary: "A core React concept referenced in the Components & Props module of the React Fundamentals course, with a supporting visual diagram provided."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # React Component Lifecycle

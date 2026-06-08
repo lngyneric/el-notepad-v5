@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A computational entity that perceives its digital or physical environment, makes goal-driven decisions (based on predefined or learned goals), and executes autonomous actions, exhibiting flexibility and initiative unlike traditional rigid software."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Agentic System

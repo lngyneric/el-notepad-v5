@@ -5,6 +5,9 @@ category: "AI+行业"
 date: 2026-04-24
 summary: "IVD与AI融合领域的行业发展方向，本素材明确AI诊断正从辅助工具向诊疗流程核心环节演进。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # IVD-AI趋势

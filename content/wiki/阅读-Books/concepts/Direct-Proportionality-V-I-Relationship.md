@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "The core Ohm's Law relationship where voltage is directly proportional to current: increasing voltage (water pressure) increases current (flow rate) when resistance is held constant."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Direct Proportionality (V-I Relationship)

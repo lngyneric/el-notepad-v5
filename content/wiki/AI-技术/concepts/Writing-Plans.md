@@ -5,6 +5,9 @@ category: "项目管理"
 date: 2026-04-15
 summary: "是一种开发实现规划技能，在拿到多步骤开发任务的需求后、编写代码前使用，面向对当前代码库无上下文的开发者，拆解出颗粒度极小的可执行任务，输出完整明确的落地计划。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Writing Plans

@@ -5,6 +5,9 @@ category: "效率工具"
 date: 2026-04-24
 summary: "A standardized daily work tracking record for reagent-associated work tasks, which for the 2026-01-20 cycle documents AI-proposed task completion status and overall workflow processing status."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Reagent-Related Daily Workflow

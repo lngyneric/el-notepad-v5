@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A category of agentic design patterns dedicated to ensuring the operational safety of intelligent agents, consisting of three core sub-types: input validation, output filtering, and behavioral guardrails."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Guardrails & Safety Patterns (Agentic Design)

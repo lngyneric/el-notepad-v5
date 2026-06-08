@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "项目所需配置的网关环境，同时承载OpenClaw Plugin层的飞书Bitable事件监听功能。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # OpenClaw Gateway

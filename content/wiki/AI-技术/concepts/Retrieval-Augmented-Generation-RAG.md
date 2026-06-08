@@ -5,6 +5,9 @@ category: "RAG知识检索"
 date: 2026-04-24
 summary: "A traditional AI pipeline that uses vector search over unstructured text for content retrieval, optimized for semantic similarity but not structured network analysis."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Retrieval-Augmented Generation (RAG)

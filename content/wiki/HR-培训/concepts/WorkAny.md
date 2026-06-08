@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-14
 summary: "A desktop AI agent application that executes tasks through natural language, providing real-time code generation, tool execution, and workspace management."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # WorkAny

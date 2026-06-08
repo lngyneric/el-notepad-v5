@@ -5,6 +5,9 @@ category: "前端开发"
 date: 2026-04-24
 summary: "A method for passing data between React components, included as a key topic in the Components & Props module of the React Fundamentals course."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # React Props

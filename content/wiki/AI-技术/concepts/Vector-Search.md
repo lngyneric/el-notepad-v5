@@ -5,6 +5,9 @@ category: "RAG知识检索"
 date: 2026-04-24
 summary: "A retrieval technique used in standard RAG that matches content based on semantic similarity, but does not capture relational or structural properties of social networks."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Vector Search

@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "In the Ohm's Law water analogy, voltage (V) is mapped to water pressure, defined as the force that pushes flow through the system, with higher pressure corresponding to higher voltage."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Voltage (Water Analogy Mapping)

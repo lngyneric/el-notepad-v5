@@ -5,6 +5,9 @@ category: "培训体系"
 date: 2026-06-06
 summary: "系统根据配置生成多个基于 cron 或 once 的定时提醒，包括工作日日常巡检、每周汇总、每月固定日任务等，所有提醒在指定时间自动推送。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 定时任务 (Scheduled Task)

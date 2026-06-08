@@ -88,7 +88,7 @@
 ## 实体 (0 个)
 
 
-## 摘要 (72 个)
+## 摘要 (78 个)
 
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/000-Home]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/01-Dedication]]
@@ -105,6 +105,7 @@
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/15-Chapter-09-Learning-and-Adaptation]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/16-Chapter-10-Model-Context-Protocol]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/17-Chapter-11-Goal-Setting-And-Monitoring]]
+- [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/19-Chapter-13-Human-in-the-Loop]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/20-Chapter-14-Knowledge-Retrieval-RAG]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/21-Chapter-15-Inter-Agent-Communication]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/22-Chapter-16-Resource-Aware-Optimization]]
@@ -126,6 +127,8 @@
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/AGENTS]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/CLAUDE]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/rules/chinese-copywriting-guidelines]]
+- [[05_代码与项目/skills/skills/skills/internal-comms/examples/company-newsletter]]
+- [[05_代码与项目/skills/skills/skills/internal-comms/examples/faq-answers]]
 - [[05_代码与项目/agentic-design-patterns/agentic-design-patterns/WARP]]
 - [[05_代码与项目/guizang-s-prompt-main/guizang-s-prompt-main/image/3D信息图]]
 - [[05_代码与项目/guizang-s-prompt-main/guizang-s-prompt-main/image/Anthropic 风格的PPT生成]]
@@ -160,5 +163,8 @@
 - [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-02-meditation]]
 - [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-03-mindfulness]]
 - [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-05-flow]]
+- [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-06-culture]]
+- [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-07-well-being]]
+- [[05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-08-further-training]]
 - [[05_示例数据/Sample/2025_new_org_structure]]
 - [[05_示例数据/Sample/zou_fengjing_status_report]]

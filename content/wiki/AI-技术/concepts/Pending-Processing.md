@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A work status tag applied to the 2026-01-20 reagent-focused daily workflow, indicating that the entire batch of associated work items has not started formal processing."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Pending Processing

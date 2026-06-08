@@ -5,25 +5,19 @@
 ## 一、目录结构
 
 ```
-xcxnotes/
-├── input/              # 输入层 - 原始源文件（只读）
-│   ├── raw/           # 原始文章和文档
-│   ├── assets/        # 图像和多媒体资源
-│   └── sources/       # 其他源文件
-├── wiki/              # 维基层 - LLM 生成和维护的页面
-│   ├── entities/      # 实体页面
-│   ├── concepts/      # 概念页面
+content/
+├── raw/<领域>/        # 输入层 - 原始源文件（不可变）
+├── wiki/<领域>/       # 维基层 - LLM 生成和维护的页面
+│   ├── entities/      # 实体（人/组织/系统）
+│   ├── concepts/      # 概念（理论/方法/模型）
 │   ├── summaries/     # 源文件摘要
-│   ├── comparisons/   # 比较分析
-│   ├── synthesis/     # 综合页面
-│   ├── index.md       # 内容索引
+│   ├── archived/      # 过期销毁的页面
+│   ├── index.md       # 链接索引
 │   └── log.md         # 操作日志
-├── output/            # 输出层 - 衍生内容
-│   ├── slides/        # 幻灯片
-│   ├── reports/       # 报告
-│   ├── visualizations/# 可视化
-│   └── presentations/ # 演示文稿
-└── Wiki架构设计.md     # 架构设计文档
+└── SCHEMA.md          # 本规范文件
+
+## 6 大领域
+HR-培训 | AI-技术 | 代码与项目 | 技能与工具 | 阅读-Books | 工作记录
 ```
 
 ## 二、页面类型和格式规范
@@ -68,41 +62,35 @@ sources: [source1, source2]
 ---
 
 ### 2. 概念页面 (concepts/)
-**用途**: 记录抽象概念、理论、方法论等
+**用途**: 记录抽象概念、理论、方法论、模型等
 **文件名**: 如 `llm-wiki-pattern.md`
 **模板**:
 ```markdown
-# [概念名称]
-
-## 定义
-[清晰的概念定义]
-
-## 核心理念
-[核心思想和原则]
-
-## 应用场景
-[列出适用场景和用例]
-
-## 实施要点
-[关键实施步骤和注意事项]
-
-## 相关链接
-- [[相关概念]]
-- [[相关实体]]
-- [[参考实现]]
-
-## 参考资源
-- [外部链接 1]
-- [外部链接 2]
-
-## 元数据
-```yaml
 ---
-tags: [concept, tag1]
-created: {{date}}
-updated: {{date}}
+title: "概念名"
+description: "一句话说明"
+tags: [domain, concept]
+category: "分类名"
+summary: "从本质理解的角度描述"
+reliability: "medium"        # high | medium | low
+sources: [raw/领域/文件名.md]  # 数据来源
+source-updated: "YYYY-MM-DD"  # 最后更新日期
 ---
+
+# 概念名
+
+## Evolution Log
+- YYYY-MM-DD: 来自 [[源文件摘要]] 的认知：...
+
+## 相关页面
+- [[同域概念1]]
+- [[同域概念2]]
 ```
+
+#### reliability 取值规则
+- **high**: source-updated ≤ 7 天
+- **medium**: source-updated > 7 天且 ≤ 15 天，或有 sources 但无 source-updated
+- **low**: 无 sources 字段，或 source-updated > 15 天，或来自 LLM 推断
 
 ---
 
@@ -363,7 +351,65 @@ grep "^## \[" wiki/log.md | tail -5
 
 ---
 
-## 六、质量保证
+## 六、Reliability 衰减规则
+
+### 三级阶梯衰减模型
+
+```
+初始化(有源 medium / 无源 low)
+    │
+    ├── medium ──→ 7天后 ──→ 仍 medium（未过 15 天阈值）
+    │                 │
+    │                 └── 15天后 ──→ 降为 low，移入 archived/
+    │
+    └── low（不会自动升级，需要人工审查后主动提升）
+
+内容更新时 → source-updated = today → 重新计算：
+  - source-updated ≤ 7天 → high
+  - source-updated > 7天且 ≤ 15天 → medium
+  - source-updated > 15天或无 sources → low
+```
+
+### 每次 Lint 运行的评级规则
+
+每次 lint 运行时，对每个概念页按以下优先级判定：
+
+| 条件 | 评级 |
+|------|:---:|
+| `sources` 非空 且 `source-updated` 距今 ≤ 7 天 | **high** |
+| `sources` 非空 且 `source-updated` 距今 7-15 天 | **medium** |
+| `sources` 非空 但 `source-updated` 距今 > 15 天 | **low** → 移入 `archived/` |
+| `sources` 非空 但 `source-updated` 缺失 | **medium**（暂估，下次 lint 若仍无更新则 low） |
+| `sources` 缺失或为空 | **low** |
+
+> reliability 是**计算值**，非存储值。每次 lint 根据当前日期重新计算。
+
+### 初始值策略（批量补充时）
+
+- 有 `sources` 字段明确指向 raw 源文件 → **medium**
+- 无 `sources` 或来自 LLM 推断 → **low**
+- 需要人工判断质量的 → 根据内容可靠性手动设 medium/high
+
+### source-updated 更新触发
+
+- 概念页内容被修改时 → `source-updated` 更新为当天日期
+- 仅更新 `tags` / `category` 等元数据字段 → 不触发更新（不影响可靠性）
+- **随内容更新自动更新**，不设独立的 reviewed-updated 字段
+
+### 与 15 天过期销毁的关系
+
+```
+source-updated > 15天 → 移入 archived/
+    同时满足：
+    - reliability 降为 low
+    - index.md 移除该条目
+    - log.md 记录: [YYYY-MM-DD] expired | [[概念名]] (15天无更新)
+    - 双链引用保留，但被引用页标注 "-> 已归档"
+```
+
+---
+
+## 七、质量保证
 
 ### 内容质量
 - [ ] 信息准确

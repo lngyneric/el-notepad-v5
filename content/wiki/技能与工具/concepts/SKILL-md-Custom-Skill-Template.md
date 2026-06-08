@@ -5,6 +5,9 @@ category: "Obsidian"
 date: 2026-04-24
 summary: "A pre-structured Markdown scaffold used to create custom skills that Claude can use, consisting of a YAML front matter block for metadata and a dedicated section for skill execution instructions."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # SKILL.md Custom Skill Template

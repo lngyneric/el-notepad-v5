@@ -5,6 +5,9 @@ category: "提示工程"
 date: 2026-04-24
 summary: "本次RA部门智能问答平台搭建依托的底层工具，存在缺乏长期记忆训练方法、提示词3000字字数上限的明显局限性。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 企业微信AI问答机器人

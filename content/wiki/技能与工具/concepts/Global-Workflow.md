@@ -5,6 +5,9 @@ category: "效率工具"
 date: 2026-04-24
 summary: "Antigravity 等 AI 编程软件中可自定义的全局工作流配置，用户可通过填写 Description 与 Content 字段实现特定自动化功能。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Global Workflow

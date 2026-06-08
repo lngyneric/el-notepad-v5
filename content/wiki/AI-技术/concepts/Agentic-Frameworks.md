@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "Frameworks that harness raw LLM power to transform text generation into actionable, adaptive intelligence capable of planning and navigating edge cases, distinct from static rule-based automata."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Agentic Frameworks

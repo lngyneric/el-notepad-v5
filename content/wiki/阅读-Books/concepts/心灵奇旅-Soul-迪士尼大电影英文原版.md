@@ -5,6 +5,9 @@ category: "小说"
 date: 2026-04-24
 summary: "来自 [[心灵奇旅 Soul（迪士尼大电影英文原版）]]<!-- BROKEN --><!-- BROKEN --> 的认知：迪士尼皮克斯同名动画的配套英文原版影视原著，由青橙英语编写，属精品小说分类下的影视原著，以纽约音乐教师的灵魂奇遇为核心叙事，探讨自我本质、人生热情与意义等终极命题。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 心灵奇旅 Soul（迪士尼大电影英文原版）

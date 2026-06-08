@@ -9,10 +9,10 @@ description: 健康检查 - 可信度标注 + 过期销毁
 
 ### 1. 可信度标注 (reliability)
 扫描所有 wiki 概念页，检查 frontmatter 中的 reliability 字段：
-- **high**: 有明确数据源的页面 (source-updated <= 7 天)
-- **medium**: 有数据源但超过 7 天
-- **low**: 无数据源或来自 LLM 推断
-- **auto**: 无 reliability 字段的 -> 标记为 "low"，追加到 log.md
+- **high**: 有明确数据源且 source-updated ≤ 7 天
+- **medium**: 有数据源且 source-updated > 7 天（≤ 15 天），或有 sources 但无 source-updated
+- **low**: 无数据源，或 source-updated > 15 天，或来自 LLM 推断
+- **auto**: 无 reliability 字段 -> 按初始值策略赋值（有 sources→medium, 无→low），追加到 log.md
 - 可信度标注后，概念页的 tag 中追加 reliability/high / reliability/low
 
 ### 2. 过期销毁 (15 天规则)

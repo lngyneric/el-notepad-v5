@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A naming standard for content files following the `NN-Title.md` format, where NN is a 2-digit sequence number corresponding to the chapter or content order."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Repository File Naming Convention

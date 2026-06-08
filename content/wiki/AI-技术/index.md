@@ -1,6 +1,6 @@
 # AI-技术 维基索引
 
-## 概念 (418 个)
+## 概念 (419 个)
 
 - [[2-5D视角]]
 - [[3D信息图Smart-UI叠加层]]
@@ -99,6 +99,7 @@
 - [[FiE-编码器内融合]]
 - [[Fight-Flight-or-Freeze-Response]]
 - [[Finishing-a-Development-Branch]]
+- [[FastClaw]]
 - [[Glossary-术语表]]
 - [[Go-Fractals-CLI]]
 - [[Google-Agent-Developer-Kit-Google-ADK]]
@@ -424,11 +425,12 @@
 ## 实体 (0 个)
 
 
-## 摘要 (12 个)
+## 摘要 (13 个)
 
 - [[karpathy-llm-wiki-20260410]]
 - [[Karpathy-LLM-Wiki-完整实现总结]]
 - [[LLM-Wiki-建立完成总结]]
+- [[FastClaw]]
 - [[Openmaic/ARCHITECTURE]]
 - [[Openmaic/BITABLE_GUIDE]]
 - [[Openmaic/checklist]]
@@ -436,5 +438,20 @@
 - [[Openmaic/INTEGRATION_SPEC]]
 - [[Openmaic/Openmaic/README-zh]]
 - [[Openmaic/README]]
+- [[Openmaic/spec]]
+- [[Openmaic/tasks]]
+
+## 源文件 (12 个)
+
+- [[FastClaw]]
+- [[Karpathy-LLM-Wiki-完整实现总结]]
+- [[LLM-Wiki-建立完成总结]]
+- [[Openmaic/ARCHITECTURE]]
+- [[Openmaic/BITABLE_GUIDE]]
+- [[Openmaic/DEPLOYMENT]]
+- [[Openmaic/INTEGRATION_SPEC]]
+- [[Openmaic/README]]
+- [[Openmaic/README-zh]]
+- [[Openmaic/checklist]]
 - [[Openmaic/spec]]
 - [[Openmaic/tasks]]

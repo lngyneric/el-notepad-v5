@@ -5,6 +5,9 @@ category: "系统设计"
 date: 2026-04-24
 summary: "PWA应用的核心脚本，用于实现资源缓存、离线运行等核心功能。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Service Worker

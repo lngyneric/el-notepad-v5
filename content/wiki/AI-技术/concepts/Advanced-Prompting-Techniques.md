@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "It is the core topic covered in Appendix A of the agentic design patterns related document, and the corresponding chapter content introducing this topic is currently in the process of translation and formatting."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Advanced Prompting Techniques

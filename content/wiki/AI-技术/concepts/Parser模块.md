@@ -5,6 +5,9 @@ category: "系统设计"
 date: 2026-04-15
 summary: "本案例中是项目`src/utils/parser.ts`定义的解析模块，故障出在该模块处理嵌套对象的解析逻辑中"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Parser模块

@@ -5,6 +5,9 @@ category: "Obsidian"
 date: 2026-04-24
 summary: "A translation formatting standard requiring English paragraphs to be followed by their Chinese translations, Chinese text wrapped in `<mark>` tags, and spaces between Chinese text and English content or numbers."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Bilingual Markdown Formatting Convention

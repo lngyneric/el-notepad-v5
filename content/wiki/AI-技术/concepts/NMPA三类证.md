@@ -5,6 +5,9 @@ category: "系统设计"
 date: 2026-04-14
 summary: "中国国家药品监督管理局颁发的第三类医疗器械注册证，是最高风险等级医疗器械的合规上市凭证，本素材中迪安诊断AI辅助诊断产品获得该认证。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # NMPA三类证

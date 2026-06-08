@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "本任务列表对应的项目主体，是对接飞书生态的OpenMAIC衍生实验室项目，涵盖环境搭建、核心集成、飞书自动化、部署、文档五大类开发任务。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # OpenMAIC-Feishu-Lab

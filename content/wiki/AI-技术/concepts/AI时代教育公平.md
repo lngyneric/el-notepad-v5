@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-24
 summary: "本书提出的人工智能技术的核心教育价值方向，旨在通过技术降低教育门槛，缩小不同群体间的教育资源差距。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # AI时代教育公平

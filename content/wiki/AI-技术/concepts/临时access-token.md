@@ -5,6 +5,9 @@ category: "LLM基础"
 date: 2026-04-24
 summary: "由OpenMAIC生成的课堂访问临时凭证，用于授权报名学生访问课堂资源。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # 临时access_token

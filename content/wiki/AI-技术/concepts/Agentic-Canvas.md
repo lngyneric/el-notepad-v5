@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "The underlying infrastructure, frameworks, and tools that serve as the operational environment for intelligent agents, managing state, communication, tool access, and logic flow."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Agentic Canvas

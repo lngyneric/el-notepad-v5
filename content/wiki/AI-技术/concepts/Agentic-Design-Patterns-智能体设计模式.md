@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "Structured, reusable design solutions for building agentic systems, covering areas such as prompt chaining, tool use, agent-to-agent collaboration, self-correction, and safety guardrails. Analogous to software engineering design patterns, they ser..."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Agentic Design Patterns / 智能体设计模式

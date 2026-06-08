@@ -5,6 +5,9 @@ category: "前端开发"
 date: 2026-04-24
 summary: "An advanced TypeScript type system feature covered in the second module of the Advanced TypeScript course, with topics including the extends keyword, infer keyword, and mapped types."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # TypeScript Conditional Types

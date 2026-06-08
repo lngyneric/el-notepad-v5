@@ -5,6 +5,9 @@ category: "其他"
 date: 2026-04-24
 summary: "The core Ohm's Law relationship where resistance is inversely proportional to current: increasing resistance (pipe constriction) decreases current (flow rate) when voltage is held constant."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Inverse Proportionality (R-I Relationship)

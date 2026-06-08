@@ -5,6 +5,9 @@ category: "Agent模式"
 date: 2026-04-24
 summary: "A standard section included in the agentic design patterns documentation pages that provides links to related content such as the previous chapter and the home page for convenient user navigation."
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Documentation Navigation (导航)

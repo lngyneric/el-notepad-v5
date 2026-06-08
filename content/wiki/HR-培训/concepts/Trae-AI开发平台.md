@@ -5,6 +5,9 @@ category: "AI应用"
 date: 2026-04-14
 summary: "来自 [[HR部门AI应用汇报 (2)]]<!-- BROKEN --> 的认知：字节跳动推出的开源AI开发工具，支持用户通过自然语言描述需求，由AI自动生成代码完成数据处理任务，数据在本地处理安全性更高，操作比原生Python更简单，适合非技术人员使用。"
 tags: [wiki, wiki/concept]
+reliability: "low"
+sources: []
+source-updated: "2026-06-07"
 ---
 
 # Trae AI开发平台
