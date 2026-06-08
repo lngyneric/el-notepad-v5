@@ -26,6 +26,14 @@
 - Cross-domain links: 0 违规
 - Index synced: 一致（concepts=120）
 
+## 2026-06-07 ingest | ai-shifu 项目文档
+- 源文件: 10 个（产品PRD 5个 / 架构设计 3个 / 部署运维 2个）
+- 新摘要 10 个: 仪表盘入口页, 密码登录设计, 教师仪表盘PRD, 课程访问分析PRD, 运营角色设计, Git仓库概览, ai-shifu 项目架构, 工程基线, Docker镜像重建TODO, 安装部署指南
+- 新概念 2 个: [[ai-shifu 培训平台]], [[ai-shifu 运营角色模型]]
+- 概念数: 120 → 122
+- 摘要数: 19 → 29
+- sources 新增 10 个
+
 ## 工作流程
 - INGEST: 新源文件放入 raw/HR-培训/
 - COMPILE: 读取 raw/ 更新 wiki/HR-培训/

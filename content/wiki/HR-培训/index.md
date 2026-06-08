@@ -4,7 +4,7 @@
 
 - [[andrej-karpathy]]
 
-## 概念 (Concepts) — 120 个
+## 概念 (Concepts) — 122 个
 
 - [[2025年公司组织架构]]
 - [[2025年组织架构]]
@@ -126,8 +126,10 @@
 - [[注册法规-品保本部]]
 - [[项目提醒-Project-Reminder]]
 - [[销售本部]]
+- [[ai-shifu 培训平台]]
+- [[ai-shifu 运营角色模型]]
 
-## 摘要 (Summaries) — 19 个
+## 摘要 (Summaries) — 29 个
 
 - [[00_202604统计/各部门AI个人能力提升计划]]
 - [[01_项目文档/HR信息生命周期管理系统/README]]
@@ -148,6 +150,16 @@
 - [[第一阶段里程碑回顾与变更合并]]
 - [[行政agent微信对话]]
 - [[行政agent日程沟通过程演示]]
+- [[ai-shifu 项目文档/产品PRD/仪表盘入口页]]
+- [[ai-shifu 项目文档/产品PRD/密码登录设计]]
+- [[ai-shifu 项目文档/产品PRD/教师仪表盘PRD]]
+- [[ai-shifu 项目文档/产品PRD/课程访问分析PRD]]
+- [[ai-shifu 项目文档/产品PRD/运营角色设计]]
+- [[ai-shifu 项目文档/架构设计/Git仓库概览]]
+- [[ai-shifu 项目文档/架构设计/ai-shifu 项目架构]]
+- [[ai-shifu 项目文档/架构设计/工程基线]]
+- [[ai-shifu 项目文档/部署运维/Docker镜像重建TODO]]
+- [[ai-shifu 项目文档/部署运维/安装部署指南]]
 
 ## 源文件 (Sources)
 
@@ -159,3 +171,13 @@
 - [[第一阶段里程碑回顾与变更合并]]
 - [[行政agent微信对话]]
 - [[行政agent日程沟通过程演示]]
+- [[ai-shifu 项目文档/产品PRD/仪表盘入口页]]
+- [[ai-shifu 项目文档/产品PRD/密码登录设计]]
+- [[ai-shifu 项目文档/产品PRD/教师仪表盘PRD]]
+- [[ai-shifu 项目文档/产品PRD/课程访问分析PRD]]
+- [[ai-shifu 项目文档/产品PRD/运营角色设计]]
+- [[ai-shifu 项目文档/架构设计/Git仓库概览]]
+- [[ai-shifu 项目文档/架构设计/ai-shifu 项目架构]]
+- [[ai-shifu 项目文档/架构设计/工程基线]]
+- [[ai-shifu 项目文档/部署运维/Docker镜像重建TODO]]
+- [[ai-shifu 项目文档/部署运维/安装部署指南]]
