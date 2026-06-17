@@ -5,7 +5,7 @@ tags: [AI-技术, FastClaw, SaaS, Next.js]
 category: "前端架构"
 summary: "FastClaw/ShipAny Next 是一个面向快速上线 SaaS 产品的 Headless SaaS 引擎，内置支付、积分、订阅、认证、RBAC、CMS、i18n 等业务能力，基于 Next.js 15/16、React 19、Tailwind CSS v4 实现。"
 reliability: "medium"
-sources: [raw/AI-技术/FastClaw.md]
+sources: ["[[sources/fastclaw]]"]
 source-updated: "2026-06-07"
 ---
 <wiki>

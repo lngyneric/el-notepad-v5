@@ -5,7 +5,7 @@ tags: [HR-培训, ai-shifu, 产品PRD, 分析]
 category: "产品设计"
 summary: "基于 Umami 分析平台的课程访问人数统计方案。后端通过 Umami API 获取数据并缓存，前端业务后端统一提供访问量指标，不直接查询 Umami。"
 reliability: "medium"
-sources: [raw/HR-培训/ai-shifu 项目文档/产品PRD(1)/课程访问分析PRD.md]
+sources: ["[[sources/课程访问分析prd]]"]
 source-updated: "2026-06-07"
 ---
 

@@ -23,10 +23,11 @@ description: 摄入新源文件到所属领域维基（禁止跨域链接）
 5. **更新 index.md + log.md**
 6. **页面完整性检查**: 确认 summaries/ 文件数 = 新源文件数，concepts/ 文件数在合理范围，sources/ 副本完整
 7. **更新根目录索引**: 检查 content/index.md 中是否有所属领域的入口链接，如缺失则补入
-8. **清理 wiki 残留**: 检查 wiki/ 根目录下是否存在非标准内容：
-   - `.canvas`/图片等非 wiki 文件 → 删除
-   - 旧版 `wiki/index.md` → 删除（多领域拆分后的残留）
-   - 非标准领域目录（无 concepts/ 等标准子目录）→ 列出报告给用户处理
+8. **检查非标准内容（只读报告，不删除）**: 检查 wiki/ 下是否存在非标准内容，**只生成清单提醒不改动**：
+   - `wiki/` 下的 `.canvas`/图片等非 wiki 文件 → 列出提醒
+   - 旧版 `wiki/index.md` → 列出提醒
+   - 非标准领域目录（无 concepts/ 等子目录）→ 列出提醒
+   - **重要保护**: 以下目录不扫描不触碰 — `.obsidian/`（插件配置）、`raw/`（源文件）、`public/`、`node_modules/`、`.git/`
 9. **git add -A + git commit + git push**
 
 ## 概念页面模板
@@ -60,5 +61,6 @@ source-updated: "YYYY-MM-DD"
 - [ ] index.md + log.md 已更新
 - [ ] 页面完整性已确认
 - [ ] 根目录 index.md 已同步
-- [ ] wiki 残留已清理
+- [ ] wiki 非标准内容已检查（只读不删）
+- [ ] 保护目录确认（.obsidian / raw / public / node_modules / .git）
 - [ ] git add + commit + push

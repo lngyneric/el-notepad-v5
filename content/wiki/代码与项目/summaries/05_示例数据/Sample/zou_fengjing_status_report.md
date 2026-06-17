@@ -5,7 +5,7 @@ tags: [代码与项目, 入职管理, 示例数据, 报告]
 category: "示例数据"
 summary: "邹锋静(高级区域销售经理-驻重庆)的入职状态报告。截至2026-01-19，整体进度4%(3/67任务完成)。Phase 1初始入职阶段未完成，缺少HR手续、MBO面谈、系统权限等关键项目，需要立即跟进。"
 reliability: "medium"
-sources: [raw/代码与项目/05_示例数据/Sample/zou_fengjing_status_report.md]
+sources: ["[[sources/zou_fengjing_status_report]]"]
 source-updated: "2026-06-07"
 ---
 

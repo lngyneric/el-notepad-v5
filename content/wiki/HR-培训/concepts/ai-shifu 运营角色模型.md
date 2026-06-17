@@ -5,7 +5,7 @@ tags: [HR-培训, ai-shifu, 权限, 角色设计]
 category: "产品设计"
 summary: "ai-shifu 平台的运营角色(Operator Role)权限模型。在现有 is_creator 单一角色基础上，新增独立的 operator 角色，覆盖课程管理(课程审核/上下架)、订单管理(查看及导出)、用户管理(查看/编辑)、系统配置(角色分配)等运营权限。"
 reliability: "medium"
-sources: [raw/HR-培训/ai-shifu 项目文档/产品PRD(1)/运营角色设计.md]
+sources: ["[[sources/运营角色设计]]"]
 source-updated: "2026-06-07"
 ---
 

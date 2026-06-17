@@ -5,7 +5,7 @@ tags: [代码与项目, Team-Awareness-Training, Well-being, 正念]
 category: "培训课程"
 summary: "团队正念训练第七节，主题为幸福感(Well-being)。课程结构：对公司文化的反思分享→幸福感教学→提升幸福感的方法论→反思。目标是帮助参与者了解并提升个人及团队幸福感。"
 reliability: "medium"
-sources: [raw/代码与项目/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-07-well-being.md]
+sources: ["[[sources/session-07-well-being]]"]
 source-updated: "2026-06-07"
 ---
 

@@ -5,7 +5,7 @@ tags: [代码与项目, 组织架构, 示例数据]
 category: "示例数据"
 summary: "2025年公司组织架构图数据，以Mermaid格式展示从CEO(彭总)到各副总经理、高级总监、总监、副总监级别的完整汇报关系。"
 reliability: "medium"
-sources: [raw/代码与项目/05_示例数据/Sample/2025_new_org_structure.md]
+sources: ["[[sources/2025_new_org_structure]]"]
 source-updated: "2026-06-07"
 ---
 

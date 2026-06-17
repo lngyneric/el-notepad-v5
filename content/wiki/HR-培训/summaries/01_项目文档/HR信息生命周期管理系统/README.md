@@ -5,7 +5,7 @@ tags: [HR-培训, 系统架构, 信息管理]
 category: "系统设计"
 summary: "一个完整的HR信息生命周期管理文件夹架构，包含元数据层级（非敏感信息/敏感信息）和分析数据层级两个核心维度，覆盖招聘、培训、薪资、入离职四大HR流程，并遵循数据安全、生命周期管理和分析驱动决策三大架构原则。"
 reliability: "medium"
-sources: [raw/HR-培训/01_项目文档/HR信息生命周期管理系统/README.md]
+sources: ["[[sources/readme]]"]
 source-updated: "2026-06-07"
 ---
 

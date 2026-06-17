@@ -5,7 +5,7 @@ tags: [HR-培训, ai-shifu, 产品PRD, 教师端]
 category: "产品设计"
 summary: "教师分析仪表盘(v1) PRD，面向课程创建者/协作者提供学员学习进度追踪、对话数据分析等功能，帮助教师理解学员学习情况。"
 reliability: "medium"
-sources: [raw/HR-培训/ai-shifu 项目文档/产品PRD(1)/教师仪表盘PRD.md]
+sources: ["[[sources/教师仪表盘prd]]"]
 source-updated: "2026-06-07"
 ---
 

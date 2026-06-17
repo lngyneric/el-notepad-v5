@@ -5,7 +5,7 @@ tags: [工作记录, 日常工作流, AI建议事项]
 category: "工作记录"
 summary: "2026年1月20日试剂相关日常工作记录的中英对照版本，记录了四项AI建议工作事项（AI会议记录、数据收集、Skills案例说明、收集各部门AI项目信息），当前全部标记为待处理状态。"
 reliability: "medium"
-sources: [raw/工作记录/02_每日工作记录/Daily_Work_20260120_CN_EN.md]
+sources: ["[[sources/daily_work_20260120_cn_en]]"]
 source-updated: "2026-06-07"
 ---
 

@@ -5,7 +5,7 @@ tags: [HR-培训, ai-shifu, 运维, Docker]
 category: "部署运维"
 summary: "Docker 镜像重建操作清单。大纲树查询缓存优化已通过 docker cp 热部署到运行容器，需要将代码变更正式集成到 Docker 镜像中。涉及 5 个文件的代码变更，包含 Redis 缓存(5min TTL)和缓存失效逻辑。"
 reliability: "medium"
-sources: [raw/HR-培训/ai-shifu 项目文档/部署运维/Docker镜像重建TODO.md]
+sources: ["[[sources/docker镜像重建todo]]"]
 source-updated: "2026-06-07"
 ---
 

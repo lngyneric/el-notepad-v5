@@ -5,7 +5,7 @@ tags: [代码与项目, Agentic-Design-Patterns, HITL, 人机协同]
 category: "设计模式"
 summary: "人机协同(Human-in-the-Loop)模式是智能体开发和部署中的关键策略，将人类判断力与AI计算效率结合。核心原则包括在道德约束下运行、遵守安全协议、人机协同增强(Human Augmentation)而非替代。实现方式包括验证者模式、实时引导模式和合作伙伴模式。"
 reliability: "medium"
-sources: [raw/代码与项目/05_代码与项目/agentic-design-patterns/agentic-design-patterns/19-Chapter-13-Human-in-the-Loop.md]
+sources: ["[[sources/19-chapter-13-human-in-the-loop]]"]
 source-updated: "2026-06-07"
 ---
 

@@ -5,7 +5,7 @@ tags: [代码与项目, Internal-Comms, FAQ, AI指令]
 category: "AI指令模板"
 summary: "公司级FAQ生成指令，要求AI从公司内部沟通渠道中提取员工最关心的共性问题，并提供简洁的1-2句回答。可集成的工具包括Slack(高互动消息)、Email(FAQ邮件)、文档(Google Drive)。"
 reliability: "medium"
-sources: [raw/代码与项目/05_代码与项目/skills/skills/skills/internal-comms/examples/faq-answers.md]
+sources: ["[[sources/faq-answers]]"]
 source-updated: "2026-06-07"
 ---
 

@@ -5,7 +5,7 @@ tags: [代码与项目, Team-Awareness-Training, 持续训练, 正念]
 category: "培训课程"
 summary: "团队正念训练最后一节(第八节)，讨论课程结束后如何继续自主训练和课程评估。课程结构：幸福感的反思分享→课后训练规划教学→最终冥想环节→课程反思。"
 reliability: "medium"
-sources: [raw/代码与项目/05_代码与项目/team-awareness-training/team-awareness-training/sessions/session-08-further-training.md]
+sources: ["[[sources/session-08-further-training]]"]
 source-updated: "2026-06-07"
 ---
 
