@@ -18,3 +18,7 @@
 - Expired: 0 pages（无 source-updated > 15 天）
 - Cross-domain links: 0 违规
 - Index synced: 一致（concepts=83）
+
+## 2026-06-17 lint | 无数据源归档清理
+- 82 个无数据源概念页移入 archived/（概念数: 83 → 1）
+- 保留 1 个有源概念：Superpowers-安装与引导

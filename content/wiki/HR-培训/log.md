@@ -39,3 +39,7 @@
 - COMPILE: 读取 raw/ 更新 wiki/HR-培训/
 - QUERY: 在 wiki/HR-培训/index.md 中查找
 - LINT: 定期检查矛盾/孤立页面
+
+## 2026-06-17 lint | 无数据源归档清理
+- 119 个无数据源概念页移入 archived/（概念数: 122 → 3）
+- 保留 3 个有源概念：HR信息生命周期管理系统, ai-shifu 培训平台, ai-shifu 运营角色模型

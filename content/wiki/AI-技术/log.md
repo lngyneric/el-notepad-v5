@@ -18,3 +18,7 @@
 - Expired: 0 pages（无 source-updated > 15 天）
 - Cross-domain links: 1 违规 → 已删除 FastClaw.md 中的跨域引用
 - Index synced: 一致（concepts=419）
+
+## 2026-06-17 lint | 无数据源归档清理
+- 418 个无数据源概念页移入 archived/（概念数: 419 → 1）
+- 保留 1 个有源概念：LLM-Wiki-Pattern

@@ -16,3 +16,7 @@
 - Expired: 0 pages（无 source-updated > 15 天）
 - Cross-domain links: 0 违规
 - Index synced: 一致（concepts=89）
+
+## 2026-06-17 lint | 无数据源归档清理
+- 89 个无数据源概念页移入 archived/（概念数: 89 → 0）
+- 全部概念页无数据源，已全部归档
